@@ -13,5 +13,10 @@ export default defineNuxtConfig({
       // Enable Server API documentation within NuxtHub
       openAPI: true
     }
-  }
+  },
+  runtimeConfig: {
+    public: {
+      maptilerApiKey: process.env.NUXT_PUBLIC_MAPTILER_API_KEY,
+    }
+  },
 })

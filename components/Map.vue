@@ -8,16 +8,17 @@
   
   <script>
   import { shallowRef, onMounted, onUnmounted, markRaw } from 'vue';
-  import { Map, NavigationControl } from 'maplibre-gl';
-  
+  import { Map, NavigationControl, Marker } from 'maplibre-gl';
+
   export default {
     name: "Map",
     setup () {
       const mapContainer = shallowRef(null);
       const map = shallowRef(null);
-  
+      const config = useRuntimeConfig()
+
       onMounted(() => {
-        const apiKey = 'YOUR_KEY';
+        const apiKey = config.public.maptilerApiKey;
   
         const initialState = { lng: 139.753, lat: 35.6844, zoom: 14 };
   
@@ -29,6 +30,9 @@
         }));
 
         map.value.addControl(new NavigationControl(), 'top-right');
+        new Marker({color: "#FF0000"})
+          .setLngLat([139.7525,35.6846])
+          .addTo(map.value);
   
       }),
       onUnmounted(() => {

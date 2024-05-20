@@ -19,6 +19,8 @@ export default {
 </script>
 
 <style>
+@import 'maplibre-gl/dist/maplibre-gl.css';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
