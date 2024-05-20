@@ -1,6 +1,7 @@
 <template>
-    <div class="heading">
-      <h1>This is my map App</h1>
+    <div class="heading flex items-center justify-center">
+      <h1 class="text-xl font-bold">This is my map App</h1>
+      <button class="btn btn-accent">Button</button>
     </div>
   </template>
   
