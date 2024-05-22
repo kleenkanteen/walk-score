@@ -1,37 +1,40 @@
 <template>
   <div class="app">
     <Navbar />
-    <Map />
+    <SelectMenu />
+    <UButton class="my-4">Calculate Location Scores</UButton>
   </div>
 </template>
 
 <script>
-import Navbar from '../components/Navbar.vue';
-import Map from '../components/Map.vue';
+import Navbar from "../components/Navbar.vue"
+import Map from "../components/Map.vue"
+import SelectMenu from "../components/SelectMenu.vue"
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Navbar,
-    Map
+    Map,
+    SelectMenu
   }
 }
 </script>
 
 <style>
-@import 'maplibre-gl/dist/maplibre-gl.css';
+@import "maplibre-gl/dist/maplibre-gl.css";
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
