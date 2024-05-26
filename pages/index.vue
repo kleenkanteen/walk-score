@@ -1,8 +1,10 @@
 <template>
   <div class="app">
     <Navbar />
-    <SelectMenu />
-    <UButton class="my-4">Calculate Location Scores</UButton>
+    <div class="flex gap-2">
+      <SelectMenu />
+      <Map />
+    </div>
   </div>
 </template>
 
