@@ -1,0 +1,3700 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-06-02T11:30:45Z",
+    "timestamp_areas_base": "2024-06-02T05:58:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 459163386,
+      "lat": 47.6430638,
+      "lon": -122.3980991,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Next Level",
+        "sport": "athletics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 459163402,
+      "lat": 47.6392066,
+      "lon": -122.3991864,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3216",
+        "addr:postcode": "98199",
+        "addr:street": "West Lynn Street",
+        "leisure": "fitness_centre",
+        "name": "Moffett Personal Training Studio",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://moffettpersonaltraining.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476078107,
+      "lat": 47.6929851,
+      "lon": -122.3173161,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "8830",
+        "addr:postcode": "98115",
+        "addr:street": "Roosevelt Way Northeast",
+        "description": "This is a gym for children ages 4 months through 12 years, offering several programs such as gymnastics classes and birthday celebrations.",
+        "leisure": "fitness_centre",
+        "name": "The Little Gym of Seattle at Maple Leaf",
+        "operator": "The Little Gym",
+        "phone": "+1-206-524-2623",
+        "source": "King County GIS;data.seattle.gov;local knowledge",
+        "sport": "gymnastics",
+        "website": "https://www.thelittlegym.com/SeattleMapleLeafWA/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1128319551,
+      "lat": 47.6756398,
+      "lon": -122.3171164,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6416",
+        "addr:postcode": "98115",
+        "addr:street": "Roosevelt Way Northeast",
+        "brand": "LA Fitness",
+        "brand:wikidata": "Q6457180",
+        "check_date": "2024-03-23",
+        "leisure": "fitness_centre",
+        "name": "LA Fitness",
+        "opening_hours": "Mo-Th 05:00-23:00; Fr 05:00-22:00; Sa,Su 08:00-20:00",
+        "phone": "+1-206-257-7687",
+        "source": "King County GIS;data.seattle.gov;bing;knowledge",
+        "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=1334"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292453305,
+      "lat": 47.6496061,
+      "lon": -122.3491364,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "710",
+        "addr:postcode": "98103",
+        "addr:street": "North 34th Street",
+        "check_date": "2024-02-06",
+        "leisure": "fitness_centre",
+        "name": "Flow Fitness",
+        "website": "https://www.flowfitnessseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411674845,
+      "lat": 47.6585538,
+      "lon": -122.3133678,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4205",
+        "addr:postcode": "98105",
+        "addr:street": "University Way Northeast",
+        "check_date": "2023-10-08",
+        "check_date:opening_hours": "2024-02-15",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Open Flight Studio",
+        "opening_hours:signed": "no",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "http://www.openflightstudio.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1569368562,
+      "lat": 47.6491855,
+      "lon": -122.3485678,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "837",
+        "addr:postcode": "98103",
+        "addr:street": "North 34th Street",
+        "brand": "Anytime Fitness",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "sport": "fitness",
+        "website": "https://www.anytimefitness.com/gyms/106/seattle-wa-98103/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735843878,
+      "lat": 47.6390214,
+      "lon": -122.3256831,
+      "tags": {
+        "addr:housenumber": "2228",
+        "addr:street": "Eastlake Avenue East",
+        "addr:unit": "C",
+        "leisure": "fitness_centre",
+        "name": "Eastlake Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766985953,
+      "lat": 47.613099,
+      "lon": -122.3051216,
+      "tags": {
+        "addr:housenumber": "2022",
+        "addr:street": "East Union Street",
+        "leisure": "fitness_centre",
+        "name": "Mind & Body Pilates",
+        "sport": "pilates",
+        "website": "https://www.seattlepilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2015644373,
+      "lat": 47.6380929,
+      "lon": -122.3571086,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2131",
+        "addr:postcode": "98109",
+        "addr:street": "Queen Anne Avenue North",
+        "checked_exists:date": "2023-03-25",
+        "leisure": "fitness_centre",
+        "name": "Häutē Yoga",
+        "source": "King County GIS;survey",
+        "sport": "yoga",
+        "website": "https://hauteyogaqueenanne.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2019051185,
+      "lat": 47.63896,
+      "lon": -122.357092,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2215",
+        "addr:postcode": "98109",
+        "addr:street": "Queen Anne Avenue North",
+        "check_date": "2024-05-08",
+        "leisure": "fitness_centre",
+        "name": "Inspire",
+        "source": "King County GIS",
+        "sport": "pilates"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2048590869,
+      "lat": 47.5906616,
+      "lon": -122.2921409,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1366",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "31st Avenue South",
+        "leisure": "fitness_centre",
+        "name": "Pulse Fitness",
+        "source:addr": "data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2077157839,
+      "lat": 47.6237338,
+      "lon": -122.3211155,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:country": "US",
+        "addr:housenumber": "519",
+        "addr:postcode": "98102",
+        "addr:state": "WA",
+        "addr:street": "Broadway East",
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness",
+        "website": "https://www.orangetheoryfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2077272341,
+      "lat": 47.6207518,
+      "lon": -122.321085,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:country": "US",
+        "addr:housenumber": "227",
+        "addr:postcode": "98102",
+        "addr:state": "WA",
+        "addr:street": "Broadway East",
+        "check_date:opening_hours": "2024-03-18",
+        "contact:website": "https://www.localfitseattle.com/broadway-location",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Local Fit",
+        "old_name": "IanFitness",
+        "opening_hours": "07:00-22:00",
+        "phone": "+14013716611"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2077272346,
+      "lat": 47.6208985,
+      "lon": -122.3214676,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:country": "US",
+        "addr:housenumber": "229",
+        "addr:postcode": "98102",
+        "addr:state": "WA",
+        "addr:street": "Broadway East",
+        "leisure": "fitness_centre",
+        "name": "Fit 321 Go",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2131716936,
+      "lat": 47.6245459,
+      "lon": -122.3207298,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "606",
+        "addr:postcode": "98102",
+        "addr:street": "Broadway East",
+        "addr:unit": "A",
+        "leisure": "fitness_centre",
+        "name": "Tribe Fitness",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2134331822,
+      "lat": 47.6612158,
+      "lon": -122.3244589,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "313",
+        "addr:postcode": "98105",
+        "addr:street": "Northeast 45th Street",
+        "leisure": "fitness_centre",
+        "name": "Commune Yoga",
+        "source": "King County GIS",
+        "sport": "yoga",
+        "website": "https://www.communeyoga.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2135541020,
+      "lat": 47.6550566,
+      "lon": -122.3421734,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3924",
+        "addr:postcode": "98103",
+        "addr:state": "WA",
+        "addr:street": "Stone Way North",
+        "check_date": "2024-02-20",
+        "leisure": "fitness_centre",
+        "name": "Emerald City Athletics",
+        "source": "King County GIS",
+        "sport": "fitness",
+        "website": "https://emeraldcityathletics.com/stone-way-seattle-washington/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2137074867,
+      "lat": 47.5226243,
+      "lon": -122.2681174,
+      "tags": {
+        "addr:housenumber": "9000",
+        "addr:postcode": "98118",
+        "addr:state": "WA",
+        "addr:street": "Rainier Avenue South",
+        "brand": "Planet Fitness",
+        "brand:wikidata": "Q7201095",
+        "leisure": "fitness_centre",
+        "name": "Planet Fitness",
+        "website": "https://www.planetfitness.com/gyms/seattle-rainier-beach-wa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2138368908,
+      "lat": 47.668834,
+      "lon": -122.379765,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1718",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "check_date:opening_hours": "2022-11-17",
+        "contact:facebook": "https://www.facebook.com/inspireseattle",
+        "contact:instagram": "https://www.instagram.com/inspirefitnessseattle/",
+        "email": "info@inspireseattle.com",
+        "leisure": "fitness_centre",
+        "name": "Inspire Ballard",
+        "opening_hours:signed": "no",
+        "phone": "+1-206-467-5607",
+        "source": "King County GIS",
+        "website": "https://inspireseattle.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2138389683,
+      "lat": 47.6685161,
+      "lon": -122.379605,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1715",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "contact:facebook": "https://www.facebook.com/striveanduplift/",
+        "contact:instagram": "https://www.instagram.com/striveanduplift/",
+        "email": "striveanduplift@gmail.com",
+        "leisure": "fitness_centre",
+        "name": "Strive & Uplift",
+        "phone": "+1-206-919-9079",
+        "source": "King County GIS",
+        "website": "https://www.striveanduplift.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2138399518,
+      "lat": 47.668856,
+      "lon": -122.383654,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2032",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "check_date:opening_hours": "2022-11-17",
+        "checked_exists:date": "2016-08-27",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness",
+        "opening_hours:signed": "no",
+        "phone": "+1-206-330-0510",
+        "source": "King County GIS",
+        "website": "https://www.orangetheory.com/en-us/locations/washington/seattle/2032-nw-market-st",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2138399535,
+      "lat": 47.6688494,
+      "lon": -122.3852279,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2208",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "leisure": "fitness_centre",
+        "name": "Ballard Health Club",
+        "phone": "+1-206-706-4882",
+        "source": "King County GIS",
+        "website": "https://www.ballardhealthclub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140460435,
+      "lat": 47.6749129,
+      "lon": -122.3878421,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6311",
+        "addr:postcode": "98107",
+        "addr:street": "24th Avenue Northwest",
+        "check_date": "2024-05-10",
+        "leisure": "fitness_centre",
+        "name": "Pilates Studio",
+        "source": "King County GIS",
+        "sport": "pilates",
+        "website": "http://pilatesstudioinballard.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140468840,
+      "lat": 47.6687793,
+      "lon": -122.395888,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3000",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100037248800841",
+        "contact:instagram": "https://www.instagram.com/edgept07/?hl=en",
+        "email": "info@edgepersonaltraining.net",
+        "leisure": "fitness_centre",
+        "name": "EDGE Personal Training",
+        "phone": "+1-206-782-1505",
+        "source": "King County GIS",
+        "sport": "fitness",
+        "website": "https://www.edgepersonaltraining.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140469504,
+      "lat": 47.6756351,
+      "lon": -122.398214,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6410",
+        "addr:postcode": "98107",
+        "addr:street": "32nd Avenue Northwest",
+        "email": "seattle-ballard@30minutehit.com",
+        "leisure": "fitness_centre",
+        "name": "30 Minute Hit",
+        "phone": "+1-206-432-9230",
+        "source": "King County GIS",
+        "website": "https://30minutehit.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140513582,
+      "lat": 47.6745612,
+      "lon": -122.4067,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6319",
+        "addr:postcode": "98107",
+        "addr:street": "Seaview Avenue Northwest",
+        "email": "nomadboxingclub@gmail.com",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Nomad Boxing Club",
+        "phone": "+1-206-851-7269",
+        "source": "King County GIS",
+        "sport": "boxing",
+        "website": "https://nomadboxingclub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2143322826,
+      "lat": 47.6497763,
+      "lon": -122.3437929,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1100",
+        "addr:postcode": "98103",
+        "addr:street": "North 35th Street",
+        "leisure": "fitness_centre",
+        "name": "Experience Momentum",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2143322930,
+      "lat": 47.6500343,
+      "lon": -122.342943,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3517",
+        "addr:postcode": "98103",
+        "addr:street": "Stone Way North",
+        "leisure": "fitness_centre",
+        "name": "Embrace the Moon",
+        "phone": "+1-206-789-0993",
+        "source": "King County GIS",
+        "website": "https://embracethemoon.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2144293444,
+      "lat": 47.6587313,
+      "lon": -122.349879,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4250",
+        "addr:postcode": "98103",
+        "addr:street": "Fremont Avenue North",
+        "leisure": "fitness_centre",
+        "name": "The Yoga Tree",
+        "opening_hours": "\"pre-registration required\"",
+        "source": "King County GIS",
+        "sport": "yoga",
+        "website": "https://www.yogatree.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2144365448,
+      "lat": 47.6523848,
+      "lon": -122.3558739,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "215",
+        "addr:postcode": "98103",
+        "addr:street": "North 36th Street",
+        "leisure": "fitness_centre",
+        "name": "Sea Level",
+        "source": "King County GIS",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2152901648,
+      "lat": 47.720105,
+      "lon": -122.2944601,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "12528",
+        "addr:postcode": "98125",
+        "addr:street": "Lake City Way Northeast",
+        "leisure": "fitness_centre",
+        "name": "Power Body",
+        "opening_hours": "Mo-Th 05:00-19:00; Fr 05:00-15:00; Sa 08:00-12:00",
+        "phone": "+1-206-385-6653",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness",
+        "website": "https://powerbodyllc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158667692,
+      "lat": 47.6232509,
+      "lon": -122.3211942,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "501",
+        "addr:postcode": "98102",
+        "addr:street": "Broadway East",
+        "brand": "CorePower Yoga",
+        "brand:wikidata": "Q21015663",
+        "leisure": "fitness_centre",
+        "name": "CorePower Yoga",
+        "source": "King County GIS",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158761236,
+      "lat": 47.6146027,
+      "lon": -122.317992,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1516",
+        "addr:postcode": "98122",
+        "addr:street": "11th Avenue",
+        "leisure": "fitness_centre",
+        "name": "Rain City Fit",
+        "opening_hours": "Mo-Su 04:00-00:00",
+        "source": "King County GIS;https://www.raincityfit.com/#home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158768606,
+      "lat": 47.6145597,
+      "lon": -122.3285576,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1533",
+        "addr:postcode": "98101",
+        "addr:street": "Minor Avenue",
+        "check_date": "2023-05-26",
+        "leisure": "fitness_centre",
+        "name": "The Rep Room",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158768913,
+      "lat": 47.6154314,
+      "lon": -122.3248095,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "510",
+        "addr:postcode": "98122",
+        "addr:street": "East Pine Street",
+        "leisure": "fitness_centre",
+        "name": "Rival Fitness",
+        "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-20:00; Sa 07:30-19:00; Su 08:00-17:00",
+        "source": "King County GIS",
+        "website": "https://www.rivalfitnessseattle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2159222951,
+      "lat": 47.6157902,
+      "lon": -122.323575,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1617 Lower",
+        "addr:postcode": "98122",
+        "addr:street": "Boylston Avenue",
+        "addr:unit": "Lower",
+        "leisure": "fitness_centre",
+        "name": "Urban Fit",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2167542586,
+      "lat": 47.6580753,
+      "lon": -122.3468569,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4211",
+        "addr:postcode": "98103",
+        "addr:state": "WA",
+        "addr:street": "Winslow Place North",
+        "leisure": "fitness_centre",
+        "name": "Marcelo Alonso Brazilian Jiu-Jitsu",
+        "phone": "+1-206-618-6024",
+        "website": "https://www.mabjj.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2190514084,
+      "lat": 47.6397028,
+      "lon": -122.3658981,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "618",
+        "addr:postcode": "98119",
+        "addr:street": "West McGraw Street",
+        "leisure": "fitness_centre",
+        "name": "Tulinda",
+        "source": "King County GIS",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2261920574,
+      "lat": 47.6617898,
+      "lon": -122.3176372,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4511",
+        "addr:postcode": "98105",
+        "addr:street": "Roosevelt Way Northeast",
+        "leisure": "fitness_centre",
+        "name": "We Yoga Co.",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2270078936,
+      "lat": 47.6475948,
+      "lon": -122.3179192,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2925",
+        "addr:postcode": "98102",
+        "addr:street": "Fuhrman Avenue East",
+        "leisure": "fitness_centre",
+        "name": "Strength Studio",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "http://strength-studio.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2270112963,
+      "lat": 47.641085,
+      "lon": -122.3202154,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2351",
+        "addr:postcode": "98102",
+        "addr:street": "10th Avenue East",
+        "leisure": "fitness_centre",
+        "name": "Pilates on 10th",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "pilates",
+        "website": "https://www.pilateson10th.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2279738222,
+      "lat": 47.6926942,
+      "lon": -122.3770447,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "8705",
+        "addr:postcode": "98117",
+        "addr:street": "15th Avenue Northwest",
+        "leisure": "fitness_centre",
+        "name": "Fight Gods",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "martial_arts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2291869164,
+      "lat": 47.636364,
+      "lon": -122.3705553,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1911",
+        "addr:postcode": "98119",
+        "addr:street": "10th Avenue West",
+        "leisure": "fitness_centre",
+        "name": "Red Square Yoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.redsquareyoga.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2312065996,
+      "lat": 47.6186876,
+      "lon": -122.3382439,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "112",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Westlake Avenue North",
+        "check_date": "2023-04-07",
+        "disused:name": "Ligne Roset",
+        "disused:shop": "furniture",
+        "leisure": "fitness_centre",
+        "name": "Barry's",
+        "website": "https://www.barrysbootcamp.com/studio/seattle/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2315238714,
+      "lat": 47.68024,
+      "lon": -122.323934,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7110",
+        "addr:postcode": "98115",
+        "addr:street": "Woodlawn Avenue Northeast",
+        "leisure": "fitness_centre",
+        "name": "Pranify Yoga",
+        "opening_hours": "Mo-Fr 05:30-21:00; Sa 08:00-13:00; Su 08:00-20:30",
+        "phone": "+1-206-402-6772",
+        "sport": "yoga",
+        "website": "https://pranifyyoga.com/seattle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2326560217,
+      "lat": 47.6276346,
+      "lon": -122.3412292,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "915",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "8th Avenue North",
+        "leisure": "fitness_centre",
+        "name": "Pro Fit Training Gym",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "http://profittraininggym.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2326627187,
+      "lat": 47.618061,
+      "lon": -122.3548486,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3025",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue",
+        "leisure": "fitness_centre",
+        "name": "CrossFit Belltown",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://crossfitbelltown.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2327625174,
+      "lat": 47.6157824,
+      "lon": -122.3492097,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "116",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "Vine Street",
+        "check_date": "2024-03-14",
+        "leisure": "fitness_centre",
+        "name": "Northwest Strong",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2327652064,
+      "lat": 47.6182378,
+      "lon": -122.3451569,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2517",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "6th Avenue",
+        "check_date": "2023-09-30",
+        "leisure": "fitness_centre",
+        "name": "Transform 180 Training",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2327652070,
+      "lat": 47.6169599,
+      "lon": -122.3469791,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2521",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "4th Avenue",
+        "leisure": "fitness_centre",
+        "name": "Demco Fitness",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2327741486,
+      "lat": 47.6125305,
+      "lon": -122.338724,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1900",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "4th Avenue",
+        "check_date": "2023-09-23",
+        "leisure": "fitness_centre",
+        "name": "Urban Yoga Spa",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.urbanyogaspa.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2327794590,
+      "lat": 47.6138125,
+      "lon": -122.3357279,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1813",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "7th Avenue",
+        "contact:facebook": "https://www.facebook.com/ZumFitnessSeattle",
+        "contact:instagram": "https://www.instagram.com/zumfitnessseattle/",
+        "contact:phone": "+1 206 443 3933",
+        "contact:twitter": "https://twitter.com/ZumFitness",
+        "contact:youtube": "https://www.youtube.com/user/ZUMfitness",
+        "leisure": "fitness_centre",
+        "name": "Zum Fitness",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://zumfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2328648726,
+      "lat": 47.7038299,
+      "lon": -122.3450993,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "10303",
+        "addr:postcode": "98133",
+        "addr:street": "Aurora Avenue North",
+        "brand": "Jazzercise",
+        "brand:wikidata": "Q6168434",
+        "leisure": "fitness_centre",
+        "name": "Jazzercise",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://jcls.jazzercise.com/facility/jazzercise-seattle-fitness-center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2328648850,
+      "lat": 47.7037703,
+      "lon": -122.35653,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "124",
+        "addr:postcode": "98133",
+        "addr:street": "North 103rd Street",
+        "check_date": "2023-08-23",
+        "leisure": "fitness_centre",
+        "name": "Positive Spin",
+        "phone": "+1-206-590-7746",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "pole_dance",
+        "website": "https://positivespinpoledance.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329620392,
+      "lat": 47.6359141,
+      "lon": -122.2781272,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4202",
+        "addr:postcode": "98112",
+        "addr:street": "East Madison Street",
+        "check_date": "2023-10-15",
+        "leisure": "fitness_centre",
+        "name": "1 on 1 Fitness",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329620483,
+      "lat": 47.6359461,
+      "lon": -122.2773931,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4227",
+        "addr:postcode": "98112",
+        "addr:street": "East Madison Street",
+        "leisure": "fitness_centre",
+        "name": "Leitz Pilates",
+        "phone": "+1-206-778-7879",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2330280114,
+      "lat": 47.611858,
+      "lon": -122.2902189,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1104",
+        "addr:postcode": "98122",
+        "addr:street": "33rd Avenue",
+        "leisure": "fitness_centre",
+        "name": "Seattle Movement Project",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2330280336,
+      "lat": 47.6127963,
+      "lon": -122.289546,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3317",
+        "addr:postcode": "98122",
+        "addr:street": "East Union Street",
+        "leisure": "fitness_centre",
+        "name": "Lifted Beauty & Wellness",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "pilates",
+        "website": "https://www.liftedbeautyandwellness.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2338546729,
+      "lat": 47.5582002,
+      "lon": -122.28501,
+      "tags": {
+        "addr:housenumber": "4860",
+        "addr:state": "WA",
+        "addr:street": "Rainier Avenue South",
+        "leisure": "fitness_centre",
+        "name": "Columbia City Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2351695731,
+      "lat": 47.6016119,
+      "lon": -122.334764,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "89",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "Yesler Way",
+        "addr:unit": "304",
+        "leisure": "fitness_centre",
+        "name": "Bodytonic Pilates",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.bodytonicpilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2351712366,
+      "lat": 47.5995747,
+      "lon": -122.3339675,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "314",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue South",
+        "leisure": "fitness_centre",
+        "name": "Kinesia Pilates",
+        "phone": "+1-206-937-6070",
+        "source": "Pioneer Square Association;King County GIS;data.seattle.gov",
+        "sport": "pilates",
+        "website": "https://backalleybikerepair.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2354406521,
+      "lat": 47.6015942,
+      "lon": -122.3347652,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "89",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "Yesler Way",
+        "addr:unit": "303",
+        "leisure": "fitness_centre",
+        "name": "The Exercise Space",
+        "phone": "+1-206-388-7428",
+        "source": "Pioneer Square Association",
+        "website": "http://theexercisespace.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2375459055,
+      "lat": 47.6053834,
+      "lon": -122.324238,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "504",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "9th Avenue",
+        "leisure": "fitness_centre",
+        "name": "NW Fitness Gym",
+        "opening_hours": "24/7",
+        "phone": "+12064624308",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness",
+        "website": "https://www.nwfitnessgym.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2384460240,
+      "lat": 47.6149952,
+      "lon": -122.312577,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1540",
+        "addr:postcode": "98122",
+        "addr:street": "15th Avenue",
+        "description": "Yoga",
+        "leisure": "fitness_centre",
+        "name": "Seattle Yoga Arts",
+        "phone": "+1-206-440-3191",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.seattleyogaarts.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2384460468,
+      "lat": 47.6160857,
+      "lon": -122.3096671,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1700",
+        "addr:postcode": "98122",
+        "addr:street": "East Madison Street",
+        "brand": "Anytime Fitness",
+        "brand:wikidata": "Q4778364",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "opening_hours": "24/7",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.anytimefitness.com/gyms/2816/seattle-wa-98122/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2396672660,
+      "lat": 47.5479002,
+      "lon": -122.3875104,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6019",
+        "addr:postcode": "98136",
+        "addr:street": "California Avenue Southwest",
+        "leisure": "fitness_centre",
+        "name": "Limber Yoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2396741037,
+      "lat": 47.5529485,
+      "lon": -122.386768,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "5432",
+        "addr:postcode": "98136",
+        "addr:street": "California Avenue Southwest",
+        "leisure": "fitness_centre",
+        "name": "Zoo Brazilian Jiu Jitsu",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "jiu_jitsu",
+        "website": "https://www.zoobjjsea.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2397401989,
+      "lat": 47.5597188,
+      "lon": -122.3870674,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4747",
+        "addr:postcode": "98116",
+        "addr:street": "California Avenue Southwest",
+        "check_date": "2023-05-13",
+        "leisure": "fitness_centre",
+        "name": "Junction Hot Yoga",
+        "phone": "+1-425-481-4810",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.junctionhotyoga.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2399978696,
+      "lat": 47.6221533,
+      "lon": -122.3308918,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1288",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Harrison Street",
+        "leisure": "fitness_centre",
+        "name": "Cyclebar",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "spin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400745202,
+      "lat": 47.7087728,
+      "lon": -122.32179,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "534",
+        "addr:postcode": "98125",
+        "addr:street": "Northeast Northgate Way",
+        "brand": "F45 Training",
+        "brand:wikidata": "Q64390973",
+        "leisure": "fitness_centre",
+        "name": "F45 Training",
+        "opening_hours": "\"See current class schedule (web site)\"",
+        "short_name": "F45",
+        "website": "https://f45training.com/northgatewa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400859030,
+      "lat": 47.6253458,
+      "lon": -122.3561735,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "11",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Roy Street",
+        "leisure": "fitness_centre",
+        "name": "Henry's Gymnasium",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400948556,
+      "lat": 47.6193258,
+      "lon": -122.3583135,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "130",
+        "addr:postcode": "98119",
+        "addr:state": "WA",
+        "addr:street": "Western Avenue West",
+        "leisure": "fitness_centre",
+        "name": "Arthur Murray Dance Studio",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "dance",
+        "website": "http://www.danceinseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400948634,
+      "lat": 47.6210901,
+      "lon": -122.360427,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "300",
+        "addr:postcode": "98119",
+        "addr:state": "WA",
+        "addr:street": "3rd Avenue West",
+        "brand": "CorePower Yoga",
+        "brand:wikidata": "Q21015663",
+        "leisure": "fitness_centre",
+        "name": "CorePower Yoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.corepoweryoga.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400976414,
+      "lat": 47.6235537,
+      "lon": -122.3552558,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "508",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue North",
+        "leisure": "fitness_centre",
+        "name": "Coreo Fitness",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "bungee",
+        "website": "https://www.coreofitness.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2404255649,
+      "lat": 47.6060944,
+      "lon": -122.339265,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1223",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "Western Avenue",
+        "leisure": "fitness_centre",
+        "name": "Riot Athletics",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.riotathletics.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2415568557,
+      "lat": 47.6374914,
+      "lon": -122.3397723,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Energy Fitness & Wellness",
+        "sport": "fitness",
+        "website": "http://energyfitandwell.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429568581,
+      "lat": 47.5643857,
+      "lon": -122.2885039,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4243",
+        "addr:postcode": "98118",
+        "addr:state": "WA",
+        "addr:street": "Rainier Avenue South",
+        "leisure": "fitness_centre",
+        "name": "Crossfit RE",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness",
+        "website": "http://crossfitre.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429600918,
+      "lat": 47.5583576,
+      "lon": -122.2851087,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4860",
+        "addr:postcode": "98118",
+        "addr:street": "Rainier Avenue South",
+        "leisure": "fitness_centre",
+        "name": "Lotus Yoga",
+        "phone": "+1-206-725-7894",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "http://www.lotusyoga.biz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430646842,
+      "lat": 47.66646,
+      "lon": -122.3011169,
+      "tags": {
+        "addr:unit": "1",
+        "leisure": "fitness_centre",
+        "name": "Dahn Yoga",
+        "phone": "+1-206-223-9642",
+        "sport": "yoga",
+        "website": "http://www.dahnyoga.com/ravennapark"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2434504246,
+      "lat": 47.6751996,
+      "lon": -122.3171867,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6408",
+        "addr:postcode": "98115",
+        "addr:street": "Roosevelt Way Northeast",
+        "leisure": "fitness_centre",
+        "name": "Barre 3",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://barre3.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2434504344,
+      "lat": 47.6764401,
+      "lon": -122.3172087,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:country": "US",
+        "addr:housenumber": "6516",
+        "addr:postcode": "98115",
+        "addr:state": "WA",
+        "addr:street": "Roosevelt Way Northeast",
+        "check_date": "2024-03-23",
+        "contact:phone": "+12064329653",
+        "leisure": "fitness_centre",
+        "name": "Emerald City Boxing Gym",
+        "website": "https://emeraldcityboxinggym.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2434504356,
+      "lat": 47.6763647,
+      "lon": -122.3175699,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6521",
+        "addr:postcode": "98115",
+        "addr:street": "Roosevelt Way Northeast",
+        "check_date": "2024-03-23",
+        "checked_exists:date": "2016-10-18",
+        "leisure": "fitness_centre",
+        "name": "Shefayoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2434527263,
+      "lat": 47.5981017,
+      "lon": -122.324341,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "511",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "Maynard Alley South",
+        "amenity": "place_of_worship",
+        "denomination": "experimential",
+        "leisure": "fitness_centre",
+        "name": "Mother Yoga Seattle",
+        "religion": "spiritualist",
+        "service_times": "06:30",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.motheryogaseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2445204037,
+      "lat": 47.5817863,
+      "lon": -122.3862137,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2332",
+        "addr:postcode": "98116",
+        "addr:state": "WA",
+        "addr:street": "California Avenue Southwest",
+        "leisure": "fitness_centre",
+        "name": "Spira Power Yoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2459612971,
+      "lat": 47.5180909,
+      "lon": -122.3560844,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "9443",
+        "addr:postcode": "98106",
+        "addr:state": "WA",
+        "addr:street": "Delridge Way Southwest",
+        "leisure": "fitness_centre",
+        "name": "Misfit Strength Studio",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://misfitstrengthstudio.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462325069,
+      "lat": 47.6756717,
+      "lon": -122.3042756,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2201",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 65th Street",
+        "contact:mobile": "+12063388652",
+        "contact:phone": "+12062976263",
+        "contact:website": "https://www.vitalitypilates.com/",
+        "leisure": "fitness_centre",
+        "name": "Vitality Pilates",
+        "sport": "pilates"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462325455,
+      "lat": 47.6646832,
+      "lon": -122.2980435,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2688",
+        "addr:postcode": "98105",
+        "addr:street": "Northeast 49th Street",
+        "checked_exists:date": "2016-04-27",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Metropolitan Pilates",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://metropolitanpilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462325836,
+      "lat": 47.6686388,
+      "lon": -122.290519,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3422",
+        "addr:postcode": "98105",
+        "addr:street": "Northeast 55th Street",
+        "leisure": "fitness_centre",
+        "name": "Project Fortius",
+        "opening_hours": "\"varies by class schedule\"",
+        "phone": "+1-206-250-2211",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness",
+        "website": "https://www.projectfortius.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462325871,
+      "lat": 47.6621305,
+      "lon": -122.2938153,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4535",
+        "addr:postcode": "98105",
+        "addr:street": "Union Bay Place Northeast",
+        "leisure": "fitness_centre",
+        "name": "CrossFit Deliverance",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://crossfitdeliverance.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462326405,
+      "lat": 47.6756164,
+      "lon": -122.3046896,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6327",
+        "addr:postcode": "98115",
+        "addr:street": "22nd Avenue Northeast",
+        "leisure": "fitness_centre",
+        "name": "Community Fitness",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462327446,
+      "lat": 47.6817012,
+      "lon": -122.290651,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7313",
+        "addr:postcode": "98115",
+        "addr:street": "35th Avenue Northeast",
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness",
+        "phone": "+1-206-330-0502",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.orangetheory.com/en-us/locations/washington/seattle/7317-35th-avenue-ne/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462334349,
+      "lat": 47.6794384,
+      "lon": -122.3749864,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1423",
+        "addr:postcode": "98117",
+        "addr:street": "Northwest 70th Street",
+        "leisure": "fitness_centre",
+        "name": "Soma Yoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462354478,
+      "lat": 47.6397049,
+      "lon": -122.400242,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3310",
+        "addr:postcode": "98199",
+        "addr:state": "WA",
+        "addr:street": "West McGraw Street",
+        "leisure": "fitness_centre",
+        "name": "Magnolia CrossFit",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.magnoliacrossfit.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462428123,
+      "lat": 47.6390862,
+      "lon": -122.3764821,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2213",
+        "addr:postcode": "98119",
+        "addr:street": "15th Avenue West",
+        "leisure": "fitness_centre",
+        "name": "The Little Gym",
+        "opening_hours": "Mo-Th 09:00-18:00; Sa,Su 09:00-16:00",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462449191,
+      "lat": 47.681606,
+      "lon": -122.3551067,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7216",
+        "addr:postcode": "98103",
+        "addr:street": "Greenwood Avenue North",
+        "check_date": "2023-08-14",
+        "leisure": "fitness_centre",
+        "name": "Vitality Pilates",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.vitalitypilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462449260,
+      "lat": 47.6828281,
+      "lon": -122.3551066,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7408",
+        "addr:postcode": "98103",
+        "addr:street": "Greenwood Avenue North",
+        "check_date": "2023-06-26",
+        "leisure": "fitness_centre",
+        "name": "Seattle Strength & Performance",
+        "opening_hours": "Mo,We 06:00-13:00,17:00-19:00; Tu 06:00-14:00,16:30-20:15; Th 06:00-13:00,16:00-18:00; Fr 06:00-13:00; Sa 09:00-11:00",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness",
+        "website": "https://seattlesp.com",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462452957,
+      "lat": 47.7205098,
+      "lon": -122.3010245,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "12535",
+        "addr:postcode": "98125",
+        "addr:street": "26th Avenue Northeast",
+        "check_date": "2024-03-10",
+        "leisure": "fitness_centre",
+        "name": "Seattle Gymnastics Academy Shiveley Gym",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463138851,
+      "lat": 47.6792726,
+      "lon": -122.3241583,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "412",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 70th Street",
+        "leisure": "fitness_centre",
+        "name": "Flight Room",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "gymnastics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463139066,
+      "lat": 47.6795116,
+      "lon": -122.3231152,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "466",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 70th Street",
+        "leisure": "fitness_centre",
+        "name": "Green Lake Strength & Conditioning",
+        "opening_hours": "Mo-Fr 06:00-13:00,15:30-19:30; Sa,Su 08:00-12:00",
+        "phone": "+1-206-526-5425",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://greenlakestrength.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463139515,
+      "lat": 47.6806191,
+      "lon": -122.3249468,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7203",
+        "addr:postcode": "98115",
+        "addr:street": "Woodlawn Avenue Northeast",
+        "leisure": "fitness_centre",
+        "name": "GreenLake Fitness",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://greenlakefitness.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463139566,
+      "lat": 47.6830269,
+      "lon": -122.3442474,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7400",
+        "addr:postcode": "98103",
+        "addr:street": "Aurora Avenue North",
+        "check_date": "2023-10-28",
+        "leisure": "fitness_centre",
+        "name": "Ian Fitness",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "http://ianfitness.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463139818,
+      "lat": 47.6848677,
+      "lon": -122.34426,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7700",
+        "addr:postcode": "98103",
+        "addr:street": "Aurora Avenue North",
+        "leisure": "fitness_centre",
+        "name": "Tenzan Aikido",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://tenzanaikido.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463213347,
+      "lat": 47.6602642,
+      "lon": -122.397976,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3145",
+        "addr:postcode": "98199",
+        "addr:street": "West Government Way",
+        "leisure": "fitness_centre",
+        "name": "Next Level",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463987849,
+      "lat": 47.6903199,
+      "lon": -122.2909358,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "8501",
+        "addr:postcode": "98115",
+        "addr:street": "35th Avenue Northeast",
+        "leisure": "fitness_centre",
+        "name": "Body & Brain",
+        "phone": "+1-206-223-9642",
+        "source": "King County GIS;data.seattle.gov;survey",
+        "sport": "yoga",
+        "website": "https://www.bodynbrain.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2549978295,
+      "lat": 47.6843122,
+      "lon": -122.355525,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7601",
+        "addr:street": "Greenwood Avenue North",
+        "addr:unit": "100",
+        "leisure": "fitness_centre",
+        "name": "Crossfit Phinney Ridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2549984319,
+      "lat": 47.6576707,
+      "lon": -122.3675883,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housename": "Crossfit Seattle",
+        "addr:housenumber": "4201",
+        "addr:postcode": "98107",
+        "addr:street": "9th Avenue Northwest",
+        "leisure": "fitness_centre",
+        "name": "Crossfit Seattle",
+        "source": "http://crossfitseattle.com/contact-us/",
+        "website": "crossfitseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630203920,
+      "lat": 47.5506618,
+      "lon": -122.2771531,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Rocket Crossfit",
+        "website": "http://rocketcrossfit.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2678319312,
+      "lat": 47.6872039,
+      "lon": -122.2631314,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7751",
+        "addr:postcode": "98115",
+        "addr:street": "63rd Avenue Northeast",
+        "leisure": "fitness_centre",
+        "name": "Magnuson Athletic Club",
+        "phone": "+1-206-452-1500",
+        "website": "https://www.macseattle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2678319313,
+      "lat": 47.6870288,
+      "lon": -122.2631286,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7751",
+        "addr:postcode": "98115",
+        "addr:street": "63rd Avenue Northeast",
+        "leisure": "fitness_centre",
+        "name": "Arena Sports",
+        "phone": "+1-206-985-8990",
+        "website": "https://www.arenasports.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2778623157,
+      "lat": 47.6610867,
+      "lon": -122.3357625,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1815",
+        "addr:postcode": "98103",
+        "addr:street": "North 45th Street",
+        "addr:unit": "203",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Aditi",
+        "source": "King County GIS",
+        "sport": "yoga",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2869633001,
+      "lat": 47.6187422,
+      "lon": -122.354479,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "124",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Denny Way",
+        "branch": "Queen Anne",
+        "brand": "Club Pilates",
+        "brand:wikidata": "Q109328844",
+        "leisure": "fitness_centre",
+        "name": "Club Pilates",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "pilates",
+        "website": "https://www.clubpilates.com/location/queenanne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936142194,
+      "lat": 47.5773334,
+      "lon": -122.2976967,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2909",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "Rainier Avenue South",
+        "leisure": "fitness_centre",
+        "source:addr:id": "1086816"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2968389935,
+      "lat": 47.6171087,
+      "lon": -122.3484709,
+      "tags": {
+        "addr:housenumber": "2612",
+        "addr:state": "WA",
+        "addr:street": "3rd Avenue",
+        "check_date": "2024-05-08",
+        "leisure": "fitness_centre",
+        "name": "Atlas Pilates",
+        "sport": "fitness",
+        "website": "https://atlaspilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995132086,
+      "lat": 47.6799493,
+      "lon": -122.32429,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "406",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 71st Street",
+        "brand": "Pure Barre",
+        "brand:wikidata": "Q86707084",
+        "leisure": "fitness_centre",
+        "name": "Pure Barre",
+        "source:addr:id": "1085241"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3006168317,
+      "lat": 47.6155142,
+      "lon": -122.3406482,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2139",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "6th Avenue",
+        "leisure": "fitness_centre",
+        "source:addr:id": "1014067"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033578670,
+      "lat": 47.6701307,
+      "lon": -122.3132586,
+      "tags": {
+        "addr:housenumber": "5623",
+        "addr:street": "University Way Northeast",
+        "leisure": "fitness_centre",
+        "name": "Healing Yoga Center",
+        "opening_hours": "\"online only\"",
+        "sport": "yoga",
+        "website": "https://healingyogacenter.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3048275498,
+      "lat": 47.5806245,
+      "lon": -122.3863719,
+      "tags": {
+        "addr:housenumber": "2620",
+        "addr:state": "WA",
+        "addr:street": "California Avenue Southwest",
+        "addr:unit": "200",
+        "leisure": "fitness_centre",
+        "name": "Inspire",
+        "sport": "fitness",
+        "website": "https://inspireseattle.com/westseattle-home.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3062335733,
+      "lat": 47.6603027,
+      "lon": -122.3985502,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3150",
+        "addr:postcode": "98199",
+        "addr:street": "West Government Way",
+        "leisure": "fitness_centre",
+        "name": "The Yoga Studio in Magnolia",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3068644632,
+      "lat": 47.614231,
+      "lon": -122.3451518,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Elliott Bay CrossFit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3163408163,
+      "lat": 47.6755907,
+      "lon": -122.376551,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6419",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "15th Avenue Northwest",
+        "contact:facebook": "https://www.facebook.com/ballardcrossfit?ref=aymt_homepage_panel",
+        "email": "paige@ballardcrossfit.com",
+        "leisure": "fitness_centre",
+        "name": "Ballard Crossfit",
+        "phone": "+1-206-383-2020",
+        "sport": "fitness;crossfit",
+        "website": "http://www.ballardcrossfit.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3169474161,
+      "lat": 47.6179931,
+      "lon": -122.3308673,
+      "tags": {
+        "brand": "24 Hour Fitness",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness",
+        "opening_hours": "Mo-Su 00:00+",
+        "sport": "fitness",
+        "website": "https://www.24hourfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3203646941,
+      "lat": 47.6623596,
+      "lon": -122.37553,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1416",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "Northwest 46th Street",
+        "addr:unit": "103",
+        "brand": "LA Fitness",
+        "brand:wikidata": "Q6457180",
+        "leisure": "fitness_centre",
+        "name": "LA Fitness",
+        "phone": "+1-206-508-5030",
+        "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=455"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3247340261,
+      "lat": 47.6855765,
+      "lon": -122.2840255,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "8 Limbs Yoga",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3371285715,
+      "lat": 47.6479101,
+      "lon": -122.3369996,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Studio Evolve",
+        "website": "https://www.studio-evolve.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3390526994,
+      "lat": 47.7082365,
+      "lon": -122.3229393,
+      "tags": {
+        "brand": "24 Hour Fitness",
+        "brand:wikidata": "Q4631849",
+        "leisure": "fitness_centre",
+        "name": "24 Hour Fitness",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "sport": "fitness",
+        "website": "https://www.24hourfitness.com/Website/Club/00886"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3461015166,
+      "lat": 47.6676798,
+      "lon": -122.371294,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1107",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "Northwest 54th Street",
+        "contact:facebook": "https://www.facebook.com/BallardBarbellandBoxingClub",
+        "contact:instagram": "https://www.instagram.com/ballardboxing/?hl=en",
+        "email": "ballardbarbell@gmail.com",
+        "leisure": "fitness_centre",
+        "name": "Ballard Barbell and Boxing Club",
+        "phone": "+1-206-384-8026",
+        "website": "https://www.ballardbarbellandboxingclub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3547665863,
+      "lat": 47.6634274,
+      "lon": -122.375804,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1455",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "Northwest Leary Way",
+        "addr:unit": "100",
+        "brand": "CorePower Yoga",
+        "brand:wikidata": "Q21015663",
+        "leisure": "fitness_centre",
+        "name": "CorePower Yoga",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "sport": "yoga",
+        "website": "https://www.corepoweryoga.com/yoga-studio/washington/seattle-ballard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3570796812,
+      "lat": 47.6369502,
+      "lon": -122.3774864,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2001",
+        "addr:postcode": "98119",
+        "addr:street": "15th Avenue West",
+        "addr:unit": "C",
+        "leisure": "fitness_centre",
+        "name": "Northwest Crossfit",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.nwcrossfit.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3665233026,
+      "lat": 47.6001652,
+      "lon": -122.3336215,
+      "tags": {
+        "addr:housenumber": "214",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue South",
+        "addr:unit": "G7",
+        "contact:email": "hello@kinesiapilates.com",
+        "contact:facebook": "https://www.facebook.com/kinesiastudio",
+        "contact:instagram": "https://www.instagram.com/kinesia_pilates/",
+        "contact:phone": "+1 206 567 1538",
+        "contact:youtube": "https://www.youtube.com/channel/UC4XpJ3TEVGbOEphwHNunQdA",
+        "fixme": "Has this buisness moved to 314 1st ave S?",
+        "leisure": "fitness_centre",
+        "name": "Kinesia Pilates",
+        "sport": "pilates",
+        "website": "https://www.kinesiapilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3700160527,
+      "lat": 47.6217845,
+      "lon": -122.3129767,
+      "tags": {
+        "addr:housenumber": "345",
+        "addr:street": "15th Avenue East",
+        "addr:unit": "102",
+        "leisure": "fitness_centre",
+        "level": "0",
+        "name": "The Grinning Yogi",
+        "website": "https://www.thegrinningyogi.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3814719035,
+      "lat": 47.6316184,
+      "lon": -122.3755549,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1477",
+        "addr:postcode": "98119",
+        "addr:state": "WA",
+        "addr:street": "Elliott Avenue West",
+        "leisure": "fitness_centre",
+        "name": "Strala Yoga",
+        "sport": "yoga",
+        "website": "http://stralaseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3881573099,
+      "lat": 47.6178958,
+      "lon": -122.3376665,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "900",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "Lenora Street",
+        "addr:unit": "128",
+        "check_date": "2023-10-24",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Dryp Yoga",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3926570672,
+      "lat": 47.6556188,
+      "lon": -122.3723901,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1210",
+        "addr:postcode": "98119",
+        "addr:state": "WA",
+        "addr:street": "West Nickerson Street",
+        "leisure": "fitness_centre",
+        "name": "Parkour Visions",
+        "website": "https://parkourvisions.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3949240657,
+      "lat": 47.655059,
+      "lon": -122.3739419,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3837",
+        "addr:postcode": "98119",
+        "addr:state": "WA",
+        "addr:street": "13th Avenue West",
+        "leisure": "fitness_centre",
+        "name": "Sync Fitness",
+        "phone": "+1-206-354-7480",
+        "website": "https://www.syncfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3953174328,
+      "lat": 47.7259758,
+      "lon": -122.3467169,
+      "tags": {
+        "brand": "Planet Fitness",
+        "brand:wikidata": "Q7201095",
+        "leisure": "fitness_centre",
+        "name": "Planet Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4243769189,
+      "lat": 47.6158686,
+      "lon": -122.326568,
+      "tags": {
+        "addr:housenumber": "1618",
+        "addr:street": "Bellevue Avenue",
+        "addr:unit": "2",
+        "leisure": "fitness_centre",
+        "name": "Urban Kinetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4301492408,
+      "lat": 47.5227744,
+      "lon": -122.366122,
+      "tags": {
+        "brand": "Fitness 19",
+        "brand:wikidata": "Q121787953",
+        "leisure": "fitness_centre",
+        "name": "Fitness 19",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4351936891,
+      "lat": 47.6251083,
+      "lon": -122.347267,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "500",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Mercer Street",
+        "brand": "Pure Barre",
+        "brand:wikidata": "Q86707084",
+        "leisure": "fitness_centre",
+        "name": "Pure Barre",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4351979289,
+      "lat": 47.6250009,
+      "lon": -122.3472714,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "500",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Mercer Street",
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4371653092,
+      "lat": 47.6449682,
+      "lon": -122.3255319,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2712",
+        "addr:postcode": "98102",
+        "addr:street": "Eastlake Avenue East",
+        "addr:unit": "B",
+        "leisure": "fitness_centre",
+        "name": "Union Pilates",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.unionpilates.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4384523196,
+      "lat": 47.5615889,
+      "lon": -122.3816724,
+      "tags": {
+        "brand": "LA Fitness",
+        "brand:wikidata": "Q6457180",
+        "leisure": "fitness_centre",
+        "name": "LA Fitness",
+        "name:en": "LA Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4384606594,
+      "lat": 47.5648654,
+      "lon": -122.3769147,
+      "tags": {
+        "check_date": "2023-05-13",
+        "leisure": "fitness_centre",
+        "name": "S.I.M.A Martial Arts",
+        "name:en": "S.I.M.A Martial Arts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4400510993,
+      "lat": 47.6142388,
+      "lon": -122.325056,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "500",
+        "addr:postcode": "98122",
+        "addr:street": "East Pike Street",
+        "leisure": "fitness_centre",
+        "name": "8 Limbs Yoga",
+        "sport": "yoga",
+        "website": "https://www.8limbsyoga.com/studio/capitol-hill/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4439632989,
+      "lat": 47.5610599,
+      "lon": -122.3387101,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Arena Sports Indoor Soccer",
+        "name:en": "Arena Sports Indoor Soccer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4520151851,
+      "lat": 47.6706553,
+      "lon": -122.387834,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "5711",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "24th Avenue Northwest",
+        "addr:unit": "150",
+        "email": "ballard@barre3.com",
+        "leisure": "fitness_centre",
+        "name": "barre3",
+        "phone": "+1-206-420-2288",
+        "website": "https://barre3.com/studio-locations/ballard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4617448917,
+      "lat": 47.6099826,
+      "lon": -122.3327334,
+      "tags": {
+        "leisure": "fitness_centre",
+        "noname": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4639109919,
+      "lat": 47.6108904,
+      "lon": -122.3440564,
+      "tags": {
+        "check_date": "2024-02-24",
+        "leisure": "fitness_centre",
+        "name": "Seattle Athletic Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4813783744,
+      "lat": 47.6164528,
+      "lon": -122.3433836,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2310",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "5th Avenue",
+        "addr:unit": "3",
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "check_date": "2023-04-09",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness",
+        "phone": "+1-206-855-5089",
+        "website": "https://belltown.orangetheoryfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4840538767,
+      "lat": 47.6912618,
+      "lon": -122.3571868,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "112",
+        "addr:postcode": "98103",
+        "addr:street": "North 85th Street",
+        "leisure": "fitness_centre",
+        "name": "Title Boxing Club",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "boxing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4840570374,
+      "lat": 47.6915602,
+      "lon": -122.3550886,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "8554 1/2",
+        "addr:postcode": "98103",
+        "addr:street": "Greenwood Avenue North",
+        "leisure": "fitness_centre",
+        "name": "The Grinning Yogi",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga",
+        "website": "https://www.thegrinningyogi.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4882439878,
+      "lat": 47.573199,
+      "lon": -122.294462,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3333",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "Rainier Avenue South",
+        "addr:unit": "D",
+        "leisure": "fitness_centre",
+        "name": "Kim's Tae Kwan Do",
+        "phone": "+1-206-787-0993",
+        "website": "https://www.rainiervalleytaekwondo.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4957689274,
+      "lat": 47.6904752,
+      "lon": -122.3586613,
+      "tags": {
+        "addr:housenumber": "117",
+        "addr:street": "Northwest 85th Street",
+        "check_date": "2023-09-29",
+        "leisure": "fitness_centre",
+        "name": "City Cycle",
+        "website": "https://citycycleseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5067774828,
+      "lat": 47.6191017,
+      "lon": -122.3584891,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Soul Fitness Club",
+        "name:en": "Soul Fitness Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080055921,
+      "lat": 47.6282885,
+      "lon": -122.341252,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "KMS",
+        "name:en": "KMS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080238723,
+      "lat": 47.6502069,
+      "lon": -122.3320275,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "The Lab",
+        "name:en": "The Lab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080396725,
+      "lat": 47.6382083,
+      "lon": -122.3403755,
+      "tags": {
+        "addr:housenumber": "2110",
+        "addr:street": "Westlake Avenue North",
+        "leisure": "fitness_centre",
+        "name": "Seattle Changing Room",
+        "name:en": "Seattle Changing Room",
+        "website": "https://www.seattlechangingroom.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080608021,
+      "lat": 47.620996,
+      "lon": -122.3339604,
+      "tags": {
+        "addr:housenumber": "300",
+        "addr:state": "WA",
+        "addr:street": "Fairview Avenue North",
+        "check_date": "2023-06-08",
+        "leisure": "fitness_centre",
+        "name": "Transform 180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5101017264,
+      "lat": 47.6208213,
+      "lon": -122.356917,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "229",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Queen Anne Avenue North",
+        "contact:email": "accounts@studio3fit.com",
+        "leisure": "fitness_centre",
+        "name": "Studio 3 Fit",
+        "phone": "+12064873373",
+        "sport": "exercise;yoga;cycling;pilates",
+        "website": "https://www.studio3fit.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5233431424,
+      "lat": 47.6513952,
+      "lon": -122.3424043,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3624",
+        "addr:postcode": "98103",
+        "addr:street": "Stone Way North",
+        "check_date": "2024-04-20",
+        "leisure": "fitness_centre",
+        "name": "Bala Yoga",
+        "opening_hours": "09:00-13:00,16:00-20:30",
+        "phone": "+1-206-802-2871",
+        "source": "King County GIS",
+        "sport": "yoga",
+        "website": "https://www.balayoga.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479028406,
+      "lat": 47.6690214,
+      "lon": -122.384979,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2208",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "Northwest Market Street",
+        "addr:unit": "202",
+        "contact:facebook": "https://www.facebook.com/BallardHealthClub/",
+        "email": "info@ballardhealthclub.com",
+        "leisure": "fitness_centre",
+        "name": "Ballard Health Club",
+        "phone": "+1-206-706-4882",
+        "sport": "fitness",
+        "website": "https://www.ballardhealthclub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5583038825,
+      "lat": 47.6171508,
+      "lon": -122.337356,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2105",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "9th Avenue",
+        "brand": "SoulCycle",
+        "brand:wikidata": "Q17084730",
+        "leisure": "fitness_centre",
+        "name": "SoulCycle",
+        "phone": "+1-206-880-7880",
+        "sport": "cycling",
+        "website": "https://www.soul-cycle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599290821,
+      "lat": 47.6176196,
+      "lon": -122.3461055,
+      "tags": {
+        "addr:housenumber": "2517",
+        "addr:state": "WA",
+        "leisure": "fitness_centre",
+        "name": "Emerald City Pilates",
+        "phone": "+1-206-992-4814",
+        "website": "emeraldcitypilates.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599440522,
+      "lat": 47.6191695,
+      "lon": -122.3482305,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Ideal U Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5625223041,
+      "lat": 47.6157236,
+      "lon": -122.3362957,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1918",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "8th Avenue",
+        "addr:unit": "150",
+        "leisure": "fitness_centre",
+        "name": "Pandora Fitness",
+        "phone": "+1-206-726-3672",
+        "website": "https://www.pandorafitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695379351,
+      "lat": 47.5573632,
+      "lon": -122.2850069,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4915",
+        "addr:postcode": "98118",
+        "addr:street": "Rainier Avenue South",
+        "addr:unit": "202",
+        "leisure": "fitness_centre",
+        "name": "Root Yoga",
+        "source": "King County GIS;data.seattle.gov",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5719091433,
+      "lat": 47.5384117,
+      "lon": -122.2828952,
+      "tags": {
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Taekwondo",
+        "sport": "taekwondo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5799576816,
+      "lat": 47.6481138,
+      "lon": -122.3550826,
+      "tags": {
+        "addr:housenumber": "101",
+        "addr:street": "Nickerson Street",
+        "addr:unit": "110",
+        "leisure": "fitness_centre",
+        "name": "Planted Pilates & Wellness",
+        "sport": "pilates",
+        "website": "https://www.myplantedpilates.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5799595053,
+      "lat": 47.6492494,
+      "lon": -122.3568966,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "15",
+        "addr:postcode": "98109",
+        "addr:street": "Nickerson Street",
+        "addr:unit": "C",
+        "check_date": "2024-02-10",
+        "leisure": "fitness_centre",
+        "name": "Tutu School",
+        "phone": "+1-206-319-9828"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5824796970,
+      "lat": 47.5496718,
+      "lon": -122.3174992,
+      "tags": {
+        "check_date": "2023-09-23",
+        "leisure": "fitness_centre",
+        "name": "Yogasmith"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5987636693,
+      "lat": 47.690815,
+      "lon": -122.3749784,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1414",
+        "addr:postcode": "98117",
+        "addr:street": "Northwest 85th Street",
+        "leisure": "fitness_centre",
+        "name": "IanFitness",
+        "operator": "IanFitness",
+        "phone": "+1-206-349-0242",
+        "source": "survey",
+        "website": "https://www.ianfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6018674586,
+      "lat": 47.5599502,
+      "lon": -122.3817242,
+      "tags": {
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056567896,
+      "lat": 47.6481072,
+      "lon": -122.3554828,
+      "tags": {
+        "addr:housenumber": "101",
+        "addr:street": "Nickerson Street",
+        "leisure": "fitness_centre",
+        "name": "Stoneway Crossfit",
+        "sport": "crossfit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056567928,
+      "lat": 47.6480694,
+      "lon": -122.3554116,
+      "tags": {
+        "addr:housenumber": "101",
+        "addr:street": "Nickerson Street",
+        "leisure": "fitness_centre",
+        "name": "Martial Sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056567930,
+      "lat": 47.6492764,
+      "lon": -122.3569586,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "15",
+        "addr:postcode": "98109",
+        "addr:street": "Nickerson Street",
+        "addr:unit": "C",
+        "leisure": "fitness_centre",
+        "name": "Body Doc Personal Training LLC",
+        "website": "https://mhfitness.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6287452875,
+      "lat": 47.6404054,
+      "lon": -122.325648,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "The Performance Fix",
+        "website": "https://theperformancefix.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6315214285,
+      "lat": 47.5454401,
+      "lon": -122.3854661,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Seattle Yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6315235485,
+      "lat": 47.5624566,
+      "lon": -122.3781439,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "West Seattle YMCA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6315235486,
+      "lat": 47.5591835,
+      "lon": -122.3819856,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Bohemian Studios"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6579698689,
+      "lat": 47.6167491,
+      "lon": -122.3076778,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Breathe Hot Yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6634276146,
+      "lat": 47.6517561,
+      "lon": -122.342908,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3627",
+        "addr:postcode": "98103",
+        "addr:street": "Stone Way North",
+        "addr:unit": "D",
+        "check_date": "2024-04-20",
+        "leisure": "fitness_centre",
+        "name": "Studio 45",
+        "website": "https://studio45seattle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6698364149,
+      "lat": 47.6612637,
+      "lon": -122.341097,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1325",
+        "addr:postcode": "98103",
+        "addr:street": "North 45th Street",
+        "brand": "Orangetheory Fitness",
+        "brand:wikidata": "Q25005163",
+        "leisure": "fitness_centre",
+        "name": "Orangetheory Fitness",
+        "source": "King County GIS",
+        "website": "https://www.orangetheory.com/en-us/locations/washington/seattle/1325-n-45th-street/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6737269589,
+      "lat": 47.5972677,
+      "lon": -122.3246731,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Northwest Kung Fu Fitness Studios"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6828408526,
+      "lat": 47.6625325,
+      "lon": -122.369225,
+      "tags": {
+        "addr:housenumber": "907",
+        "addr:street": "Northwest Ballard Way",
+        "addr:unit": "115",
+        "brand": "F45 Training",
+        "brand:wikidata": "Q64390973",
+        "contact:facebook": "https://www.facebook.com/F45Ballard/",
+        "contact:instagram": "https://www.instagram.com/f45_Ballard/",
+        "email": "ballard@f45training.com",
+        "leisure": "fitness_centre",
+        "name": "F45 Training",
+        "phone": "+1-206-899-5455",
+        "short_name": "F45",
+        "website": "https://f45training.com/ballard/home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7052161511,
+      "lat": 47.5751228,
+      "lon": -122.3865558,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3218",
+        "addr:postcode": "98116",
+        "addr:state": "WA",
+        "addr:street": "California Avenue Southwest",
+        "email": "westseattle@barre3.com",
+        "leisure": "fitness_centre",
+        "name": "Barre3",
+        "phone": "+1-206-717-2116",
+        "sport": "workout;yoga",
+        "website": "https://barre3.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7076802132,
+      "lat": 47.6644334,
+      "lon": -122.297834,
+      "tags": {
+        "brand": "SoulCycle",
+        "brand:wikidata": "Q17084730",
+        "leisure": "fitness_centre",
+        "name": "SoulCycle",
+        "sport": "cycling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7098326388,
+      "lat": 47.532965,
+      "lon": -122.2696806,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Rainier Health & Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7204425375,
+      "lat": 47.5592765,
+      "lon": -122.3047923,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Roundbox Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7590282295,
+      "lat": 47.6688725,
+      "lon": -122.391293,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2622",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "addr:unit": "B",
+        "email": "info@ekstasissc.com",
+        "leisure": "fitness_centre",
+        "name": "Ekstasis Strength and Conditioning",
+        "official_name": "Ekstasis Strength & Conditioning",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "phone": "+1-206-877-2775",
+        "website": "https://ekstasisstrengthandconditioning.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7590282296,
+      "lat": 47.6688676,
+      "lon": -122.388547,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2420",
+        "addr:postcode": "98107",
+        "addr:street": "Northwest Market Street",
+        "leisure": "fitness_centre",
+        "name": "The Cycle Sanctuary",
+        "sport": "cycling",
+        "website": "https://www.thecyclesanctuary.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7658547383,
+      "lat": 47.6618619,
+      "lon": -122.3408719,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4501",
+        "addr:postcode": "98103",
+        "addr:street": "Interlake Avenue North",
+        "addr:unit": "6",
+        "leisure": "fitness_centre",
+        "name": "Compfit Dance & Fitness Studio",
+        "website": "https://www.compfit.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817874870,
+      "lat": 47.6526486,
+      "lon": -122.3570259,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "The Sweat Studios",
+        "website": "https://www.thesweatstudios.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7817874874,
+      "lat": 47.6527626,
+      "lon": -122.3560094,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "212",
+        "addr:postcode": "98103",
+        "addr:street": "North 36th Street",
+        "leisure": "fitness_centre",
+        "name": "NW Fitness Project",
+        "opening_hours": "Mo-Fr 05:00-20:00; Sa 08:00-15:00; Su 07:00-14:00",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7862540792,
+      "lat": 47.6073967,
+      "lon": -122.3391822,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "99",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "Union Street",
+        "description": "The fitness center for the Four Seasons Hotel in Seattle.",
+        "leisure": "fitness_centre",
+        "opening_hours": "24/7",
+        "sauna": "yes",
+        "source": "local knowledge",
+        "website": "https://www.fourseasons.com/seattle/services-and-amenities/fitness/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8140538479,
+      "lat": 47.6125843,
+      "lon": -122.2964091,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2719",
+        "addr:state": "WA",
+        "addr:street": "East Union Street",
+        "addr:unit": "B09",
+        "leisure": "fitness_centre",
+        "name": "Cappy's Boxing Gym",
+        "opening_hours:covid19": "restricted",
+        "phone": "+1-206-322-6410",
+        "sport": "boxing",
+        "website": "https://www.cappysgym.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8284901380,
+      "lat": 47.5606091,
+      "lon": -122.3817221,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4755",
+        "addr:postcode": "98116",
+        "addr:state": "WA",
+        "addr:street": "Fauntleroy Way Southwest",
+        "addr:unit": "170",
+        "leisure": "fitness_centre",
+        "name": "City Sweats",
+        "phone": "+1-206-420-1934",
+        "source": "streetlevel imagery",
+        "website": "https://citysweats.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8493476835,
+      "lat": 47.6493387,
+      "lon": -122.3559749,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "130",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Nickerson Street",
+        "addr:unit": "210",
+        "leisure": "fitness_centre",
+        "name": "Bodycenter Studios",
+        "phone": "+1-206-633-4800",
+        "sport": "pilates",
+        "website": "https://bodycenterstudios.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8739030562,
+      "lat": 47.661972,
+      "lon": -122.374608,
+      "tags": {
+        "addr:housenumber": "1401",
+        "addr:street": "Northwest 46th Street",
+        "addr:unit": "200",
+        "contact:facebook": "https://www.facebook.com/TruFusionWashington/",
+        "email": "studio140@trufusionstudio.com",
+        "leisure": "fitness_centre",
+        "name": "TruFusion Ballard",
+        "phone": "+1-206-337-6200",
+        "website": "https://trufusion.com/ballard/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8830400760,
+      "lat": 47.6394173,
+      "lon": -122.3975554,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3111",
+        "addr:postcode": "98199",
+        "addr:street": "West McGraw Street",
+        "addr:unit": "101",
+        "leisure": "fitness_centre",
+        "name": "Village Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9161445219,
+      "lat": 47.6385188,
+      "lon": -122.3261132,
+      "tags": {
+        "addr:housenumber": "2201",
+        "addr:street": "Eastlake Avenue East",
+        "addr:unit": "B",
+        "leisure": "fitness_centre",
+        "name": "Datza",
+        "sport": "yoga",
+        "website": "https://datzastudios.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9660956424,
+      "lat": 47.6230127,
+      "lon": -122.3296614,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Big Iron Gym"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9688939317,
+      "lat": 47.5205604,
+      "lon": -122.2627185,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Emperado Kajukenbo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9723447056,
+      "lat": 47.5205125,
+      "lon": -122.2626534,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Lotus Brazilian Jiu Jitsu",
+        "phone": "+1-206-395-6849",
+        "website": "https://lotusbjjseattle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9723447057,
+      "lat": 47.5205388,
+      "lon": -122.2626905,
+      "tags": {
+        "email": "kingcreditboxing@gmail.com",
+        "leisure": "fitness_centre",
+        "name": "Credit Boxing Gym"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9777969517,
+      "lat": 47.6691447,
+      "lon": -122.379041,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "5599",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "17th Avenue Northwest",
+        "contact:facebook": "https://www.facebook.com/pages/The%20Six%20Ballard/103010781142212/",
+        "email": "hello@thesixseattle.com",
+        "leisure": "fitness_centre",
+        "name": "The Six",
+        "opening_hours": "Mo-Sa 08:00-14:00; Su 09:00-14:00",
+        "phone": "+1-206-695-2771",
+        "sport": "yoga",
+        "website": "https://www.thesixseattle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9847318321,
+      "lat": 47.6444479,
+      "lon": -122.3451012,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Studio Jack's Pilates"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9932395218,
+      "lat": 47.6207723,
+      "lon": -122.3408999,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "ISMMA",
+        "official_name": "Ivan Salaverry Mixed Martial Arts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9945851968,
+      "lat": 47.657477,
+      "lon": -122.3862373,
+      "tags": {
+        "addr:housenumber": "4055",
+        "addr:street": "23rd Avenue West",
+        "contact:facebook": "https://www.facebook.com/drivenbyfitness",
+        "contact:twitter": "@drivenbyfitness",
+        "email": "Train@colemanstrength.com",
+        "leisure": "fitness_centre",
+        "name": "Coleman Strength & Recovery",
+        "opening_hours": "Mo-Fr 06:00-15:00; Sa 10:00-13:00",
+        "phone": "+1-206-486-4744",
+        "website": "https://www.colemanstrength.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9959881699,
+      "lat": 47.6620521,
+      "lon": -122.368205,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4550",
+        "addr:state": "WA",
+        "addr:street": "9th Avenue Northwest",
+        "contact:facebook": "https://www.facebook.com/TwentyPoundHammer/",
+        "contact:instagram": "https://www.instagram.com/twentypoundhammer/",
+        "email": "info@twentypoundhammer.com",
+        "leisure": "fitness_centre",
+        "name": "CrossFit Twenty Pound Hammer",
+        "phone": "+1-206-693-2570",
+        "sport": "crossfit",
+        "website": "https://www.twentypoundhammer.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10749990968,
+      "lat": 47.7207892,
+      "lon": -122.2978856,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "12549",
+        "addr:postcode": "98125",
+        "addr:street": "28th Avenue Northeast",
+        "check_date": "2024-03-23",
+        "leisure": "fitness_centre",
+        "name": "Blosm Studio",
+        "opening_hours": "\"by class schedule\"",
+        "phone": "+1-616-916-4428",
+        "sport": "yoga",
+        "website": "https://www.blosmstudio.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10786487656,
+      "lat": 47.7164637,
+      "lon": -122.2973812,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "12025",
+        "addr:postcode": "98125",
+        "addr:street": "Lake City Way Northeast",
+        "check_date": "2024-04-16",
+        "leisure": "fitness_centre",
+        "name": "Tier 1 Body",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa,Su 06:00-13:00",
+        "phone": "+1-206-504-3038",
+        "sport": "fitness",
+        "website": "https://www.tier1body.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10894624914,
+      "lat": 47.5627574,
+      "lon": -122.3857136,
+      "tags": {
+        "addr:housenumber": "4203",
+        "addr:state": "WA",
+        "addr:street": "42nd Avenue Southwest",
+        "leisure": "fitness_centre",
+        "name": "The Rowhouse",
+        "website": "https://therowhouse.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10927041970,
+      "lat": 47.6758377,
+      "lon": -122.3615246,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "315",
+        "addr:postcode": "98117",
+        "addr:state": "WA",
+        "addr:street": "Northwest 65th Street",
+        "addr:unit": "05",
+        "check_date": "2024-04-26",
+        "leisure": "fitness_centre",
+        "name": "Seattle Personal Fitness",
+        "phone": "+1-206-437-8091"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10978233485,
+      "lat": 47.618381,
+      "lon": -122.3486066,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Breathe",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10978328410,
+      "lat": 47.5758388,
+      "lon": -122.3338477,
+      "tags": {
+        "check_date": "2023-06-14",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981682830,
+      "lat": 47.6136117,
+      "lon": -122.3183656,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1419",
+        "addr:postcode": "98122",
+        "addr:state": "WA",
+        "addr:street": "11th Avenue",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11105562070,
+      "lat": 47.6627994,
+      "lon": -122.2941729,
+      "tags": {
+        "addr:housenumber": "4602",
+        "addr:street": "Union Bay Place Northeast",
+        "brand": "Pure Barre",
+        "brand:wikidata": "Q86707084",
+        "check_date": "2023-08-10",
+        "leisure": "fitness_centre",
+        "name": "Pure Barre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11105562074,
+      "lat": 47.6649953,
+      "lon": -122.2954193,
+      "tags": {
+        "check_date": "2023-08-10",
+        "leisure": "fitness_centre",
+        "name": "Sama Fitness",
+        "sport": "yoga",
+        "website": "https://samafit.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11160050275,
+      "lat": 47.6778569,
+      "lon": -122.3265772,
+      "tags": {
+        "addr:housenumber": "6869",
+        "addr:street": "Woodlawn Avenue Northeast",
+        "addr:unit": "100",
+        "check_date": "2023-08-31",
+        "leisure": "fitness_centre",
+        "name": "Yoga by Fran Gallo",
+        "sport": "yoga",
+        "website": "https://frangallo.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11214850366,
+      "lat": 47.6127427,
+      "lon": -122.3391547,
+      "tags": {
+        "check_date": "2023-09-23",
+        "leisure": "fitness_centre",
+        "name": "Rowdy Box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11390730404,
+      "lat": 47.6785062,
+      "lon": -122.3551088,
+      "tags": {
+        "addr:housenumber": "6726",
+        "addr:street": "Greenwood Avenue North",
+        "brand": "The Bar Method",
+        "brand:wikidata": "Q117599728",
+        "check_date": "2023-12-02",
+        "leisure": "fitness_centre",
+        "name": "The Bar Method",
+        "sport": "barre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11390730408,
+      "lat": 47.6789459,
+      "lon": -122.3555592,
+      "tags": {
+        "addr:housenumber": "6801",
+        "addr:street": "Greenwood Avenue North",
+        "addr:unit": "113",
+        "check_date": "2023-12-02",
+        "leisure": "fitness_centre",
+        "name": "8 Limbs Yoga",
+        "sport": "yoga",
+        "website": "https://8limbsyoga.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11756473372,
+      "lat": 47.5993549,
+      "lon": -122.308309,
+      "tags": {
+        "addr:housenumber": "1800",
+        "addr:state": "WA",
+        "addr:street": "South Jackson Street",
+        "addr:unit": "B",
+        "check_date": "2024-03-23",
+        "leisure": "fitness_centre",
+        "name": "M Bodied"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11756473374,
+      "lat": 47.5990715,
+      "lon": -122.3087627,
+      "tags": {
+        "addr:housenumber": "1801",
+        "addr:state": "WA",
+        "addr:street": "South Jackson Street",
+        "check_date": "2024-03-23",
+        "leisure": "fitness_centre",
+        "name": "F45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11882656388,
+      "lat": 47.5803922,
+      "lon": -122.3294217,
+      "tags": {
+        "addr:housenumber": "2445",
+        "addr:street": "4th Avenue South",
+        "addr:unit": "102",
+        "check_date": "2024-05-05",
+        "leisure": "fitness_centre",
+        "name": "Yoga Rama",
+        "sport": "yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11938876907,
+      "lat": 47.6124184,
+      "lon": -122.3025493,
+      "tags": {
+        "addr:housenumber": "1122",
+        "addr:street": "23rd Avenue",
+        "addr:unit": "D",
+        "check_date": "2024-05-27",
+        "leisure": "fitness_centre",
+        "name": "HIIT Lab",
+        "website": "https://hiitlab.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11949581716,
+      "lat": 47.6195535,
+      "lon": -122.3022453,
+      "tags": {
+        "check_date": "2024-05-31",
+        "leisure": "fitness_centre",
+        "name": "Emerald City CrossFit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11951040666,
+      "lat": 47.6835143,
+      "lon": -122.3877626,
+      "tags": {
+        "addr:housenumber": "7509",
+        "addr:street": "24th Avenue Northwest",
+        "check_date": "2024-05-26",
+        "leisure": "fitness_centre",
+        "name": "Ballard Yoga Collective",
+        "sport": "yoga"
+      }
+    }
+  ]
+}

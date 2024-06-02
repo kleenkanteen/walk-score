@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4933, 13.7551]
+      },
+      "properties": { "year": "2004" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6523, 46.5535]
+      },
+      "properties": { "year": "2006" }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.3596, 48.4268]
+      },
+      "properties": { "year": "2007" }
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-06-02T11:30:45Z",
+    "timestamp_areas_base": "2024-06-02T05:58:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 356540545,
+      "lat": 47.7013676,
+      "lon": -122.2945609,
+      "tags": {
+        "amenity": "school",
+        "ele": "71",
+        "gnis:county_id": "033",
+        "gnis:created": "09/10/1979",
+        "gnis:feature_id": "1506459",
+        "gnis:state_id": "53",
+        "name": "Mapleleaf School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356540551,
+      "lat": 47.6772572,
+      "lon": -122.3221899,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "520",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast Ravenna Boulevard",
+        "amenity": "school",
+        "ele": "53",
+        "gnis:county_id": "033",
+        "gnis:created": "09/10/1979",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1506478",
+        "gnis:state_id": "53",
+        "name": "Hazel Wolf K-8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356541630,
+      "lat": 47.705322,
+      "lon": -122.34158,
+      "tags": {
+        "amenity": "school",
+        "ele": "103",
+        "gnis:county_id": "033",
+        "gnis:created": "08/01/1990",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1509815",
+        "gnis:state_id": "53",
+        "name": "Epic Life Academy",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356541632,
+      "lat": 47.7135227,
+      "lon": -122.3531952,
+      "tags": {
+        "amenity": "school",
+        "ele": "135",
+        "gnis:county_id": "033",
+        "gnis:created": "08/01/1990",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1509820",
+        "gnis:state_id": "53",
+        "name": "Christ the King Elementary School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356541685,
+      "lat": 47.6745032,
+      "lon": -122.2929699,
+      "tags": {
+        "amenity": "school",
+        "ele": "97",
+        "gnis:county_id": "033",
+        "gnis:created": "08/01/1990",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1509916",
+        "gnis:state_id": "53",
+        "name": "Assumption Saint Bridget School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356541772,
+      "lat": 47.5506523,
+      "lon": -122.28044,
+      "tags": {
+        "amenity": "school",
+        "ele": "64",
+        "gnis:county_id": "033",
+        "gnis:created": "09/01/1990",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1510179",
+        "gnis:state_id": "53",
+        "name": "Saint Edward Parish School",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543720,
+      "lat": 47.520864,
+      "lon": -122.3602026,
+      "tags": {
+        "amenity": "school",
+        "ele": "114",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1515359",
+        "gnis:state_id": "53",
+        "name": "Learning Way School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543721,
+      "lat": 47.7016247,
+      "lon": -122.297313,
+      "tags": {
+        "amenity": "school",
+        "ele": "55",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1515360",
+        "gnis:state_id": "53",
+        "name": "Seattle Waldorf School - Main Campus",
+        "wikidata": "Q7442201"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543722,
+      "lat": 47.6806913,
+      "lon": -122.289107,
+      "tags": {
+        "amenity": "school",
+        "ele": "86",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1515361",
+        "gnis:state_id": "53",
+        "name": "Concordia Lutheran School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543729,
+      "lat": 47.6648914,
+      "lon": -122.3535721,
+      "tags": {
+        "amenity": "school",
+        "ele": "106",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:feature_id": "1515368",
+        "gnis:state_id": "53",
+        "name": "Northwest Montessori School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543786,
+      "lat": 47.6648284,
+      "lon": -122.3483808,
+      "tags": {
+        "amenity": "school",
+        "ele": "98",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:feature_id": "1515419",
+        "gnis:state_id": "53",
+        "name": "Bjorn Lih Primary School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543789,
+      "lat": 47.6284814,
+      "lon": -122.3309496,
+      "tags": {
+        "amenity": "school",
+        "ele": "12",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:feature_id": "1515422",
+        "gnis:state_id": "53",
+        "name": "Northwest Childrens Academy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543871,
+      "lat": 47.5523537,
+      "lon": -122.296345,
+      "tags": {
+        "addr:housenumber": "2920",
+        "addr:state": "WA",
+        "addr:street": "South Orcas Street",
+        "amenity": "school",
+        "ele": "78",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1515503",
+        "gnis:state_id": "53",
+        "name": "Dearborn Park International Elementary School",
+        "old_name": "Dearborn Park Elementary School",
+        "website": "https://www.seattleschools.org/schools/dearborn/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543874,
+      "lat": 47.6037097,
+      "lon": -122.3067923,
+      "tags": {
+        "amenity": "school",
+        "ele": "96",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:feature_id": "1515506",
+        "gnis:state_id": "53",
+        "name": "Happy Medium School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543929,
+      "lat": 47.5643698,
+      "lon": -122.3851449,
+      "tags": {
+        "amenity": "school",
+        "ele": "106",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1515561",
+        "gnis:state_id": "53",
+        "name": "Hope Lutheran School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543930,
+      "lat": 47.5266659,
+      "lon": -122.3755717,
+      "tags": {
+        "amenity": "school",
+        "ele": "114",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:feature_id": "1515562",
+        "gnis:state_id": "53",
+        "name": "Calvary Luthern School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543933,
+      "lat": 47.5685719,
+      "lon": -122.3837814,
+      "tags": {
+        "amenity": "school",
+        "ele": "132",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:feature_id": "1515565",
+        "gnis:state_id": "53",
+        "name": "Westside School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356543934,
+      "lat": 47.5617552,
+      "lon": -122.3797714,
+      "tags": {
+        "amenity": "school",
+        "ele": "79",
+        "gnis:county_id": "033",
+        "gnis:created": "03/01/1993",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1515566",
+        "gnis:state_id": "53",
+        "name": "West Seattle Montessori School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356548004,
+      "lat": 47.7216287,
+      "lon": -122.3136284,
+      "tags": {
+        "amenity": "school",
+        "ele": "102",
+        "gnis:county_id": "033",
+        "gnis:created": "08/01/1990",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "1531221",
+        "gnis:state_id": "53",
+        "name": "Saint Matthew School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356548027,
+      "lat": 47.6572622,
+      "lon": -122.323807,
+      "tags": {
+        "amenity": "school",
+        "ele": "44",
+        "gnis:county_id": "033",
+        "gnis:created": "08/01/1990",
+        "gnis:feature_id": "1531239",
+        "gnis:state_id": "53",
+        "grades": "K-5",
+        "name": "John Stanford International School",
+        "operator": "Seattle Public Schools",
+        "operator:short": "SPS",
+        "operator:type": "public",
+        "operator:wikidata": "Q3236113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356548263,
+      "lat": 47.5875987,
+      "lon": -122.2956805,
+      "tags": {
+        "amenity": "school",
+        "ele": "68",
+        "gnis:county_id": "033",
+        "gnis:created": "12/01/1990",
+        "gnis:feature_id": "1531792",
+        "gnis:state_id": "53",
+        "name": "John Muir Annex School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356551456,
+      "lat": 47.5812781,
+      "lon": -122.3310438,
+      "tags": {
+        "amenity": "school",
+        "ele": "6",
+        "gnis:county_id": "033",
+        "gnis:created": "07/15/2008",
+        "gnis:feature_id": "2462296",
+        "gnis:state_id": "53",
+        "name": "Career Link School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356551546,
+      "lat": 47.6237,
+      "lon": -122.3331,
+      "tags": {
+        "amenity": "school",
+        "ele": "24",
+        "gnis:county_id": "033",
+        "gnis:created": "07/15/2008",
+        "gnis:feature_id": "2462365",
+        "gnis:state_id": "53",
+        "name": "Hutch School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356551551,
+      "lat": 47.6047959,
+      "lon": -122.3155949,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1211",
+        "addr:postcode": "98122",
+        "addr:state": "WA",
+        "addr:street": "East Alder Street",
+        "amenity": "school",
+        "ele": "40",
+        "gnis:county_id": "033",
+        "gnis:created": "07/15/2008",
+        "gnis:feature_id": "2462369",
+        "gnis:state_id": "53",
+        "name": "Interagency Alder Academy",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://alder.interagency.seattleschools.org/modules/groups/integrated_home.phtml?gid=2329189"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356551687,
+      "lat": 47.6979629,
+      "lon": -122.3034929,
+      "tags": {
+        "amenity": "school",
+        "ele": "72",
+        "gnis:county_id": "033",
+        "gnis:created": "07/15/2008",
+        "gnis:edited": "11/03/2008",
+        "gnis:feature_id": "2462469",
+        "gnis:state_id": "53",
+        "name": "Interagency Ryther Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356552123,
+      "lat": 47.6458921,
+      "lon": -122.4005483,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2836",
+        "addr:postcode": "98199",
+        "addr:street": "34th Avenue West",
+        "amenity": "school",
+        "ele": "60",
+        "gnis:county_id": "033",
+        "gnis:created": "11/03/2008",
+        "gnis:feature_id": "2494257",
+        "gnis:state_id": "53",
+        "name": "Discovery Montessori School",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356552125,
+      "lat": 47.6942296,
+      "lon": -122.3179475,
+      "tags": {
+        "amenity": "school",
+        "ele": "142",
+        "gnis:county_id": "033",
+        "gnis:created": "11/03/2008",
+        "gnis:feature_id": "2494259",
+        "gnis:state_id": "53",
+        "name": "Perkins School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356552142,
+      "lat": 47.6774857,
+      "lon": -122.3847228,
+      "tags": {
+        "amenity": "school",
+        "ele": "54",
+        "gnis:county_id": "033",
+        "gnis:created": "11/03/2008",
+        "gnis:feature_id": "2494274",
+        "gnis:state_id": "53",
+        "name": "Matheia School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356552187,
+      "lat": 47.6991364,
+      "lon": -122.3172453,
+      "tags": {
+        "amenity": "school",
+        "ele": "131",
+        "gnis:county_id": "033",
+        "gnis:created": "11/03/2008",
+        "gnis:feature_id": "2494315",
+        "gnis:state_id": "53",
+        "name": "Dartmoor School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2048590953,
+      "lat": 47.5902165,
+      "lon": -122.2920152,
+      "tags": {
+        "addr:housenumber": "3107",
+        "addr:state": "WA",
+        "addr:street": "South Day Street",
+        "amenity": "school",
+        "name": "Sponge School",
+        "source:addr": "data.seattle.gov",
+        "website": "https://spongeschool.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2131716908,
+      "lat": 47.6229208,
+      "lon": -122.3207328,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "430",
+        "addr:postcode": "98102",
+        "addr:street": "Broadway East",
+        "amenity": "school",
+        "name": "ALPS Language School",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2143145312,
+      "lat": 47.6644926,
+      "lon": -122.3522997,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "510",
+        "addr:postcode": "98103",
+        "addr:street": "North 49th Street",
+        "amenity": "school",
+        "name": "Kapka Cooperative School",
+        "source": "King County GIS",
+        "website": "http://kapkaschool.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158667215,
+      "lat": 47.6200477,
+      "lon": -122.3224834,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "201",
+        "addr:postcode": "98102",
+        "addr:street": "Harvard Avenue East",
+        "amenity": "school",
+        "name": "Harvard Avenue School",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2323857963,
+      "lat": 47.669651,
+      "lon": -122.3132285,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "5601",
+        "addr:postcode": "98105",
+        "addr:street": "University Way Northeast",
+        "amenity": "school",
+        "capacity": "100",
+        "contact:email": "info@ucoopschool.org",
+        "contact:facebook": "https://www.facebook.com/University-Cooperative-School-146333908723714/",
+        "contact:phone": "+1-206-524-0653",
+        "contact:website": "https://www.ucoopschool.org",
+        "contact:yelp": "https://www.yelp.com/biz/university-cooperative-school-seattle?osq=University+Cooperative+School",
+        "fee": "yes",
+        "grades": "0-5",
+        "isced:level": "0;1",
+        "min_age": "5",
+        "name": "University Cooperative School",
+        "operator:type": "private",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2327732148,
+      "lat": 47.6172717,
+      "lon": -122.3366058,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "901",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "Lenora Street",
+        "amenity": "school",
+        "name": "Morningside Academy",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2328650326,
+      "lat": 47.6967279,
+      "lon": -122.3549416,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "9218",
+        "addr:postcode": "98103",
+        "addr:street": "Greenwood Avenue North",
+        "amenity": "school",
+        "name": "Young Child Academy",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "http://www.youngchildacademy.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2494550792,
+      "lat": 47.6213897,
+      "lon": -122.3510733,
+      "tags": {
+        "amenity": "school",
+        "grades": "9,10,11,12",
+        "name": "The Center School",
+        "website": "https://centerhs.seattleschools.org/",
+        "wikidata": "Q7721879",
+        "wikipedia": "en:The Center School (Seattle)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2669551506,
+      "lat": 47.6430253,
+      "lon": -122.3292157,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2501",
+        "addr:postcode": "98102",
+        "addr:street": "Fairview Avenue East",
+        "amenity": "school",
+        "name": "Blue Ribbon Cooking",
+        "phone": "+1-206-328-2442",
+        "website": "https://www.blueribboncooking.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2778623189,
+      "lat": 47.6606547,
+      "lon": -122.3357845,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1815",
+        "addr:postcode": "98103",
+        "addr:street": "North 45th Street",
+        "addr:unit": "217",
+        "amenity": "school",
+        "level": "1",
+        "name": "The Exploration Academy",
+        "source": "King County GIS",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4004272642,
+      "lat": 47.6680295,
+      "lon": -122.4179814,
+      "tags": {
+        "amenity": "school",
+        "description": "non-profit foundation that provides social and educational services to Native Americans",
+        "name": "United Indians of All Tribes",
+        "wikidata": "Q7887872",
+        "wikipedia": "en:United Indians of All Tribes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4287062121,
+      "lat": 47.605224,
+      "lon": -122.3376171,
+      "tags": {
+        "addr:housenumber": "1101",
+        "addr:street": "Post Avenue",
+        "amenity": "school",
+        "check_date": "2024-05-06",
+        "name": "Diana's Market Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4518505568,
+      "lat": 47.6326276,
+      "lon": -122.3206875,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1501",
+        "addr:postcode": "98102",
+        "addr:state": "WA",
+        "addr:street": "10th Avenue East",
+        "addr:unit": "101",
+        "amenity": "school",
+        "name": "Gage Academy of Art",
+        "phone": "+1-206-323-4243",
+        "website": "https://www.gageacademy.org/",
+        "wikidata": "Q5516829"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4539170352,
+      "lat": 47.5982068,
+      "lon": -122.3219892,
+      "tags": {
+        "amenity": "school",
+        "name": "Vuu's Beauty School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585882329,
+      "lat": 47.6606447,
+      "lon": -122.3277253,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4401",
+        "addr:postcode": "98105",
+        "addr:street": "2nd Avenue Northeast",
+        "amenity": "school",
+        "level": "1",
+        "name": "Mingyuan Evergreen Chinese School",
+        "name:en": "Mingyuan Evergreen Chinese School",
+        "name:zh": "明遠中文學校",
+        "opening_hours": "Sa 09:15-12:00",
+        "phone": "+1-206-524-6436",
+        "website": "https://seattle-chinese.org/en/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5678219221,
+      "lat": 47.6811729,
+      "lon": -122.3177075,
+      "tags": {
+        "amenity": "school",
+        "check_date": "2024-03-23",
+        "name": "New Discovery School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5754589483,
+      "lat": 47.6132002,
+      "lon": -122.3426112,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2101",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "3rd Avenue",
+        "amenity": "school",
+        "check_date": "2024-05-06",
+        "name": "Coffee Tab",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6737269588,
+      "lat": 47.5971832,
+      "lon": -122.3245483,
+      "tags": {
+        "amenity": "school",
+        "name": "Girls Rock Math"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6737269689,
+      "lat": 47.5963408,
+      "lon": -122.3241284,
+      "tags": {
+        "amenity": "school",
+        "name": "Puget Sound Community School",
+        "wikidata": "Q7258925"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6780355216,
+      "lat": 47.6255239,
+      "lon": -122.3211618,
+      "tags": {
+        "amenity": "school",
+        "name": "St. Nicholas School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8433406352,
+      "lat": 47.6873965,
+      "lon": -122.264819,
+      "tags": {
+        "addr:housenumber": "7777",
+        "addr:state": "WA",
+        "addr:street": "62nd Avenue Northeast",
+        "amenity": "school",
+        "fee": "yes",
+        "name": "Seattle Waldorf High School",
+        "phone": "+1-206-522-2644",
+        "website": "https://seattlewaldorf.org/programs/high-school/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797248018,
+      "lat": 47.6234189,
+      "lon": -122.2956867,
+      "tags": {
+        "addr:housenumber": "2832",
+        "addr:street": "East Arthur Place",
+        "amenity": "school",
+        "check_date": "2024-05-27",
+        "name": "The Music Factory",
+        "website": "https://musicfactorynw.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9837262623,
+      "lat": 47.7004393,
+      "lon": -122.324771,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "9750",
+        "addr:postcode": "98115",
+        "addr:street": "3rd Avenue Northeast",
+        "addr:unit": "102",
+        "amenity": "school",
+        "grades": "0-12",
+        "isced:level": "0-3",
+        "name": "Brightmont Academy",
+        "opening_hours": "Mo-Th 08:30-18:00; Fr 08:30-17:00",
+        "operator": "Brightmont Academy",
+        "operator:type": "private",
+        "phone": "+1-206-284-2300",
+        "website": "https://www.brightmontacademy.com/campuses/seattle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9885499755,
+      "lat": 47.5840465,
+      "lon": -122.3051232,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2120",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "22nd Avenue South",
+        "amenity": "school",
+        "name": "Giddens School",
+        "website": "https://www.giddensschool.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9885499756,
+      "lat": 47.5838445,
+      "lon": -122.3045241,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2100",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "South Walker Street",
+        "amenity": "school",
+        "name": "Lake Washington Girls Middle School",
+        "website": "https://www.lwgms.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9989434174,
+      "lat": 47.7198846,
+      "lon": -122.299656,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "12509",
+        "addr:postcode": "98125",
+        "addr:street": "27th Avenue Northeast",
+        "amenity": "school",
+        "denomination": "lutheran",
+        "grades": "PK-8",
+        "isced:level": "0-2",
+        "name": "Concordia Lutheran School",
+        "phone": "+1-206-362-8143",
+        "religion": "christian",
+        "website": "https://concordiaseattle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10805854907,
+      "lat": 47.6325611,
+      "lon": -122.3206779,
+      "tags": {
+        "amenity": "school",
+        "name": "The Amistad School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11923813626,
+      "lat": 47.5562938,
+      "lon": -122.3164363,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "5117",
+        "addr:postcode": "98108",
+        "addr:state": "WA",
+        "addr:street": "13th Ave S",
+        "amenity": "school",
+        "denomination": "catholic",
+        "name": "St. George Parish School",
+        "operator": "Archdiocese of Seattle",
+        "operator:type": "religious",
+        "religion": "christian",
+        "website": "https://www.saintgeorgeseattle.org"
+      }
+    }
+  ]
+}

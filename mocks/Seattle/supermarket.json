@@ -1,0 +1,990 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-05-31T23:48:00Z",
+    "timestamp_areas_base": "2024-05-31T22:27:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 97526535,
+      "lat": 47.7216444,
+      "lon": -122.2952057,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3020",
+        "addr:postcode": "98125",
+        "addr:street": "Northeast 127th Street",
+        "brand": "Grocery Outlet",
+        "brand:wikidata": "Q5609934",
+        "name": "Grocery Outlet",
+        "official_name": "Grocery Outlet Bargain Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-206-971-0192",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.groceryoutlet.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477829394,
+      "lat": 47.6751275,
+      "lon": -122.316204,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1026",
+        "addr:postcode": "98115",
+        "addr:state": "WA",
+        "addr:street": "Northeast 64th Street",
+        "branch": "Roosevelt Square",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "checked_exists:date": "2016-10-18",
+        "name": "Whole Foods Market",
+        "opening_hours": "07:00-22:00",
+        "phone": "+1 206-985-1500",
+        "ref": "rooseveltsquare",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.wholefoodsmarket.com/stores/rooseveltsquare",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528514704,
+      "lat": 47.5593321,
+      "lon": -122.304861,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4801",
+        "addr:postcode": "98108",
+        "addr:state": "WA",
+        "addr:street": "Beacon Avenue South",
+        "alt_name": "Seattle Supermarket",
+        "name": "Seattle Super Market",
+        "name:zh": "西城超級城市",
+        "name:zh-Hans": "西城超级城市",
+        "name:zh-Hant": "西城超級城市",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "phone": "+1-206-767-3344",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1178216030,
+      "lat": 47.5612845,
+      "lon": -122.3850454,
+      "tags": {
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1695204257,
+      "lat": 47.6246921,
+      "lon": -122.3472754,
+      "tags": {
+        "addr:housenumber": "500",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Mercer Street",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "check_date": "2023-07-21",
+        "name": "QFC",
+        "opening_hours": "24/7",
+        "opening_hours:url": "https://www.qfc.com/storeHours?store=70500881",
+        "phone": "+1-206-352-4020",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720012210,
+      "lat": 47.6499533,
+      "lon": -122.3508881,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "600",
+        "addr:postcode": "98103",
+        "addr:street": "North 34th Street",
+        "brand:wikidata": "Q7118517",
+        "check_date": "2024-04-28",
+        "name": "PCC",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1-206-632-6811",
+        "shop": "supermarket",
+        "source": "King County GIS",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.pccmarkets.com/stores/fremont/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1726018710,
+      "lat": 47.6626473,
+      "lon": -122.317644,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4555",
+        "addr:postcode": "98105",
+        "addr:state": "WA",
+        "addr:street": "Roosevelt Way Northeast",
+        "branch": "Seattle - U District",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "check_date:opening_hours": "2024-02-25",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1 206-547-6299",
+        "ref": "137",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://locations.traderjoes.com/wa/seattle/137/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1726065090,
+      "lat": 47.6622402,
+      "lon": -122.296441,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2746",
+        "addr:postcode": "98105",
+        "addr:state": "WA",
+        "addr:street": "Northeast 45th Street",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "diet:kosher": "yes",
+        "name": "QFC",
+        "opening_hours": "24/7",
+        "phone": "+1-206-523-5160",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1726081341,
+      "lat": 47.6224273,
+      "lon": -122.3214738,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "417",
+        "addr:postcode": "98102",
+        "addr:street": "Broadway East",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "opening_hours": "05:00-01:00",
+        "operator": "QFC",
+        "shop": "supermarket",
+        "source": "King County GIS",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1730800437,
+      "lat": 47.596843,
+      "lon": -122.327043,
+      "tags": {
+        "check_date": "2023-12-31",
+        "checked_exists:date": "2015-05-18",
+        "name": "Uwajimaya",
+        "name:ja": "宇和島屋",
+        "name:zh": "宇和島屋",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.uwajimaya.com/stores/seattle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735362323,
+      "lat": 47.6761289,
+      "lon": -122.284355,
+      "tags": {
+        "addr:housenumber": "6514",
+        "addr:postcode": "98115",
+        "addr:street": "40th Avenue Northeast",
+        "description": "PCC Natural Markets is a certified organic grocery store & Seattle Washington co -op, specializing in natural food, organic produce & natural meat.",
+        "name": "View Ridge PCC",
+        "opening_hours": "Mo-Su 7:00-11:00",
+        "operator": "PCC Natural Markets",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.pccnaturalmarkets.com/locations/vr.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735895556,
+      "lat": 47.6157986,
+      "lon": -122.3100354,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1700",
+        "addr:postcode": "98122",
+        "addr:state": "WA",
+        "addr:street": "Madison Street",
+        "branch": "Seattle - Capitol Hill",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "check_date": "2023-01-21",
+        "name": "Trader Joe's",
+        "opening_hours": "09:00-21:00",
+        "phone": "+1 206-322-7268",
+        "ref": "130",
+        "shop": "supermarket",
+        "website": "https://locations.traderjoes.com/wa/seattle/130/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934511929,
+      "lat": 47.6183162,
+      "lon": -122.3381763,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2200",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "Westlake Avenue",
+        "branch": "Westlake",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "checked_exists:date": "2016-06-27",
+        "level": "P3",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 206-621-9700",
+        "ref": "westlake",
+        "shop": "supermarket",
+        "website": "https://m.wholefoodsmarket.com/mobile/stores/westlake",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1964712416,
+      "lat": 47.6179284,
+      "lon": -122.345931,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2522",
+        "addr:postcode": "98121",
+        "addr:state": "WA",
+        "addr:street": "5th Avenue",
+        "check_date": "2023-04-25",
+        "name": "City Foods",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa-Su 08:00-24:00",
+        "phone": "+1-206-441-3663",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1981751143,
+      "lat": 47.6247689,
+      "lon": -122.3550584,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "100",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Mercer Street",
+        "level": "0",
+        "name": "Metropolitan Market",
+        "opening_hours": "24/7",
+        "phone": "+1-206-213-0778",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov",
+        "source:level": "local knowledge",
+        "website": "https://metropolitan-market.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2040309258,
+      "lat": 47.547142,
+      "lon": -122.2847855,
+      "tags": {
+        "name": "Island Pacific",
+        "name:vi": "Siêu thị hải sản",
+        "name:zh": "海鮮市場",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2049252456,
+      "lat": 47.5792192,
+      "lon": -122.2998444,
+      "tags": {
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2081763609,
+      "lat": 47.6369803,
+      "lon": -122.3769082,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2001",
+        "addr:postcode": "98119",
+        "addr:state": "WA",
+        "addr:street": "15th Avenue West",
+        "branch": "Interbay",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1 206-352-5440",
+        "ref": "interbay",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/interbay"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2143512044,
+      "lat": 47.6782479,
+      "lon": -122.3770519,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6719",
+        "addr:postcode": "98117",
+        "addr:street": "15th Avenue Northwest",
+        "name": "Scandinavian Specialties",
+        "phone": "+1-877-784-7020",
+        "shop": "supermarket",
+        "source": "King County GIS",
+        "website": "https://www.scanspecialties.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2322647957,
+      "lat": 47.6588997,
+      "lon": -122.313035,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4216",
+        "addr:postcode": "98105",
+        "addr:street": "University Way Northeast",
+        "alt_name:ko": "H 마트",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "cuisine": "asian",
+        "name": "H Mart",
+        "name:en": "H Mart",
+        "name:ko": "한아름",
+        "name:zh-Hans": "韩亚龙",
+        "name:zh-Hant": "韓亞龍",
+        "opening_hours": "Mo-Fr 08:00-21:30; Sa 09:00-21:30; Su 09:00-21:00",
+        "phone": "+1-206-547-0767",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2351695473,
+      "lat": 47.6013242,
+      "lon": -122.3331051,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "109",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "Occidental Avenue South",
+        "name": "Saveway Grocery",
+        "phone": "+1-206-622-7294",
+        "shop": "supermarket",
+        "source": "Pioneer Square Association;King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2373886271,
+      "lat": 47.580873,
+      "lon": -122.3132425,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2500",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "15th Avenue South",
+        "check_date": "2023-08-02",
+        "name": "Beacon Hill Market",
+        "name:zh": "碧近山超市",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2434539191,
+      "lat": 47.5990041,
+      "lon": -122.3194034,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1001",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "South Jackson Street",
+        "name": "Dong Hing Market",
+        "name:zh": "東興市場",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462174146,
+      "lat": 47.7247284,
+      "lon": -122.3417772,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "13102",
+        "addr:postcode": "98133",
+        "addr:state": "WA",
+        "addr:street": "Stone Avenue North",
+        "name": "US Food Chef's Store",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462174155,
+      "lat": 47.7248044,
+      "lon": -122.3433535,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "13200",
+        "addr:postcode": "98133",
+        "addr:state": "WA",
+        "addr:street": "Aurora Avenue North",
+        "check_date": "2023-12-20",
+        "name": "Asian Family Market",
+        "name:en": "Asian Family Market",
+        "name:zh": "百佳超市",
+        "phone": "+1-206-367-1229",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.asianfamilymkt.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462453190,
+      "lat": 47.7332376,
+      "lon": -122.3107372,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1531",
+        "addr:postcode": "98155",
+        "addr:street": "Northeast 145th Street",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "opening_hours": "Mo-Su 05:00-01:00",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2667855576,
+      "lat": 47.6706609,
+      "lon": -122.387274,
+      "tags": {
+        "alt_name": "Quality Food Centers",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995351003,
+      "lat": 47.6364969,
+      "lon": -122.3566714,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1916",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "Queen Anne Avenue North",
+        "branch": "Seattle - Queen Anne Hill",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "check_date": "2024-05-08",
+        "checked_exists:date": "2023-03-25",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1 206-284-2546",
+        "ref": "135",
+        "shop": "supermarket",
+        "source:addr:id": "1014548",
+        "website": "https://www.traderjoes.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3008090337,
+      "lat": 47.6803721,
+      "lon": -122.3235175,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "450",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 71st Street",
+        "name": "PCC",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "PCC Natural Markets",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3140920331,
+      "lat": 47.5728293,
+      "lon": -122.2934131,
+      "tags": {
+        "name": "Mekong Rainier Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3485817517,
+      "lat": 47.5986055,
+      "lon": -122.3168144,
+      "tags": {
+        "alt_name": "How How Market",
+        "name": "Hau Hau Market",
+        "name:zh": "好好市場",
+        "name:zh-Hans": "好好市场",
+        "name:zh-Hant": "好好市場",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3485817518,
+      "lat": 47.5980864,
+      "lon": -122.316335,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1221",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "South King Street",
+        "level": "1",
+        "name": "Lam's Seafood Market",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "+1-206-720-0969",
+        "shop": "supermarket",
+        "website": "https://www.lamsseafood.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3499809625,
+      "lat": 47.5391664,
+      "lon": -122.283133,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "6951",
+        "addr:postcode": "98118",
+        "addr:state": "WA",
+        "addr:street": "Martin Luther King Junior Way South",
+        "addr:unit": "121",
+        "level": "1",
+        "name": "Ba Miền Seafood Market",
+        "name:vi": "Ba Miền",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "+1-206-466-2160",
+        "shop": "supermarket",
+        "website": "https://m.facebook.com/bamienseafoodmarket/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3582218094,
+      "lat": 47.6815945,
+      "lon": -122.3555196,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "7231",
+        "addr:postcode": "98103",
+        "addr:street": "Phinney Avenue North",
+        "checked_exists:date": "2022-10-11",
+        "name": "Ken's Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4112849387,
+      "lat": 47.6138791,
+      "lon": -122.3210828,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1401",
+        "addr:postcode": "98122",
+        "addr:state": "WA",
+        "addr:street": "Broadway",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "check_date": "2024-02-18",
+        "name": "QFC",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170543668,
+      "lat": 47.6159671,
+      "lon": -122.3372517,
+      "tags": {
+        "name": "Metropolitan Deli + Cafe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4631648726,
+      "lat": 47.6558026,
+      "lon": -122.313542,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1315",
+        "addr:postcode": "98105",
+        "addr:state": "WA",
+        "addr:street": "Northeast Campus Parkway",
+        "branch": "Alder Hall",
+        "description:payment": "Accepts major debit/credit cards, Dining Card, and Husky Card Account",
+        "level": "0",
+        "name": "District Market",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 09:00-17:00",
+        "operator": "University of Washington Housing & Food Services",
+        "operator:abbr": "HFS",
+        "operator:type": "public",
+        "payment:account_cards": "yes",
+        "payment:apple_pay": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5032906460,
+      "lat": 47.5589369,
+      "lon": -122.2868536,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3610",
+        "addr:postcode": "98118",
+        "addr:street": "South Edmunds Street",
+        "name": "PCC",
+        "opening_hours": "06:00-23:00",
+        "phone": "+1-206-466-6182",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5512866192,
+      "lat": 47.6625657,
+      "lon": -122.3742266,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4609",
+        "addr:postcode": "98107",
+        "addr:state": "WA",
+        "addr:street": "14th Avenue Northwest",
+        "branch": "Ballard",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "check_date": "2023-09-10",
+        "level": "0",
+        "name": "Trader Joe's",
+        "opening_hours": "09:00-21:00",
+        "phone": "+1 206-783-0498",
+        "ref": "147",
+        "shop": "supermarket",
+        "source": "King County GIS",
+        "website": "https://locations.traderjoes.com/wa/seattle/147/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5662026889,
+      "lat": 47.6113428,
+      "lon": -122.3210619,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1001",
+        "addr:postcode": "98122",
+        "addr:state": "WA",
+        "addr:street": "Broadway",
+        "branch": "Madison Broadway",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "name": "Whole Foods Market",
+        "opening_hours": "07:00-22:00",
+        "phone": "+1 206-802-3720",
+        "ref": "madisonbroadway",
+        "shop": "supermarket",
+        "source": "King County GIS",
+        "website": "https://www.wholefoodsmarket.com/stores/madisonbroadway",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6781330674,
+      "lat": 47.6103093,
+      "lon": -122.3402469,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1601",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "2nd Avenue",
+        "alt_name:ko": "H 마트",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "cuisine": "asian",
+        "level": "-1",
+        "name": "H Mart",
+        "name:en": "H Mart",
+        "name:ko": "한아름",
+        "name:zh-Hans": "韩亚龙",
+        "name:zh-Hant": "韓亞龍",
+        "opening_hours": "Mo-Sa 08:00-21:30; Su 08:00-21:00",
+        "shop": "supermarket",
+        "source": "King County GIS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6975089659,
+      "lat": 47.5608948,
+      "lon": -122.3819456,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4755",
+        "addr:postcode": "98116",
+        "addr:state": "WA",
+        "addr:street": "Fauntleroy Way Southwest",
+        "branch": "West Seattle",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1 206-338-5060",
+        "ref": "westseattle",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/westseattle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7633370253,
+      "lat": 47.6131191,
+      "lon": -122.3029763,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2230",
+        "addr:postcode": "98122",
+        "addr:street": "East Union Street",
+        "check_date": "2022-10-25",
+        "name": "PCC",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.pccmarkets.com/stores/central-district/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8291669992,
+      "lat": 47.6595719,
+      "lon": -122.3179468,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4301",
+        "addr:postcode": "98105",
+        "addr:street": "Roosevelt Way Northeast",
+        "contact:phone": "+1 206 659 0934",
+        "name": "Trinity Market",
+        "opening_hours": "Mo-Th 07:00-23:00, Fr 07:00-24:00, Sa 08:00-24:00, Su 08:30-22:00",
+        "shop": "supermarket",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9328532840,
+      "lat": 47.596012,
+      "lon": -122.31133,
+      "tags": {
+        "name": "Big John's",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9689783952,
+      "lat": 47.6196604,
+      "lon": -122.320645,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "128",
+        "addr:street": "Broadway East",
+        "name": "M2M Mart",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "operator": "H Mart",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-206-557-7676",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9932780718,
+      "lat": 47.5855183,
+      "lon": -122.3294434,
+      "tags": {
+        "name": "Sodo Community Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10115917311,
+      "lat": 47.5989972,
+      "lon": -122.3019607,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2301",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "South Jackson Street",
+        "brand": "Amazon Fresh",
+        "brand:wikidata": "Q4740834",
+        "name": "Amazon Fresh",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10163994447,
+      "lat": 47.7253276,
+      "lon": -122.3467014,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "13201",
+        "addr:postcode": "98133",
+        "addr:state": "WA",
+        "addr:street": "Aurora Avenue North",
+        "brand": "Amazon Fresh",
+        "brand:wikidata": "Q4740834",
+        "check_date": "2023-12-27",
+        "description": "Just walk out shopping",
+        "name": "Amazon Fresh",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11043319650,
+      "lat": 47.6183983,
+      "lon": -122.3043585,
+      "tags": {
+        "addr:housenumber": "2108",
+        "addr:street": "East Denny Way",
+        "check_date": "2023-07-12",
+        "level": "0",
+        "name": "Spice SPC",
+        "opening_hours": "Mo-Th 16:00-20:00; Fr-Su 12:00-20:00",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "https://www.spicespc.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11689059689,
+      "lat": 47.6642137,
+      "lon": -122.3140056,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4732",
+        "addr:postcode": "98105",
+        "addr:street": "Brooklyn Avenue Northeast",
+        "branch": "Brooklyn and NE 50th St",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "name": "Safeway",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/wa/seattle/4732-brooklyn-ave-ne.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11812835668,
+      "lat": 47.5379612,
+      "lon": -122.2810077,
+      "tags": {
+        "check_date": "2024-04-12",
+        "name": "Amin International Grocery and Deli",
+        "shop": "supermarket"
+      }
+    }
+  ]
+}

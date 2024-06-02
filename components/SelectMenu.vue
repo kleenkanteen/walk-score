@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import draggable from "vuedraggable"
 import { Country, State, City } from "country-state-city"
 
