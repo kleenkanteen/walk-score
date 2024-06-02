@@ -12,7 +12,6 @@
 <script>
 import { shallowRef, onMounted, onUnmounted, markRaw } from "vue"
 import { Map, NavigationControl, Marker } from "maplibre-gl"
-import exampleFeatureCollection from "../mocks/exampleFeatureCollection.json"
 import supermarketData from "../mocks/Seattle/supermarket.json"
 import foodData from "../mocks/Seattle/food.json"
 import fitnessCentreData from "../mocks/Seattle/fitnessCentre.json"
@@ -40,9 +39,10 @@ export default {
       )
 
       map.value.addControl(new NavigationControl(), "top-right")
-      // new Marker({ color: "#FF0000" })
-      //   .setLngLat([139.7525, 35.6846])
-      //   .addTo(map.value)
+
+      new Marker({ color: "#FF0000" })
+        .setLngLat([initialState.lng, initialState.lat])
+        .addTo(map.value)
 
       const convertNodesToGeoJSON = (nodes) => {
         return {
@@ -60,40 +60,51 @@ export default {
         }
       }
 
+      const mapDataList = [
+        {
+          ...supermarketData,
+          id: "supermarket",
+          color: "red",
+          opacity: 0.8,
+          radius: 8
+        },
+        { ...foodData, id: "food", color: "blue", opacity: 0.7, radius: 7 },
+        {
+          ...fitnessCentreData,
+          id: "fitnessCentre",
+          color: "green",
+          opacity: 0.6,
+          radius: 6
+        },
+        {
+          ...schoolData,
+          id: "school",
+          color: "yellow",
+          opacity: 0.5,
+          radius: 5
+        }
+      ]
+
       map.value.on("load", async () => {
-        const image = await map.value.loadImage(
-          "https://maplibre.org/maplibre-gl-js/docs/assets/osgeo-logo.png"
-        )
-        map.value.addImage("custom-marker", image.data)
-        map.value.addSource("supermarket", {
-          type: "geojson",
-          data: convertNodesToGeoJSON(supermarketData.elements)
+        mapDataList.forEach((data) => {
+          map.value.addSource(data.id, {
+            type: "geojson",
+            data: convertNodesToGeoJSON(data.elements)
+          })
         })
 
-        const mapDataList = [
-          { ...supermarketData, id: "supermarket" },
-          { ...foodData, id: "food" },
-          { ...fitnessCentreData, id: "fitnessCentre" },
-          { ...schoolData, id: "school" }
-        ]
-
-        // mapDataList.forEach((data) => {
-        //   map.value.addSource(data.id, {
-        //     type: "geojson",
-        //     data: convertNodesToGeoJSON(data.elements)
-        //   })
-        // })
-
         // https://maplibre.org/maplibre-style-spec/layers/
-        map.value.addLayer({
-          id: "supermarket",
-          type: "circle",
-          source: "supermarket",
-          paint: {
-            "circle-radius": 8,
-            "circle-color": "#007cbf",
-            "circle-opacity": 0.8
-          }
+        mapDataList.forEach((data) => {
+          map.value.addLayer({
+            id: data.id,
+            type: "circle",
+            source: data.id,
+            paint: {
+              "circle-radius": data.radius,
+              "circle-color": data.color,
+              "circle-opacity": data.opacity
+            }
+          })
         })
       })
     }),
